@@ -38,9 +38,48 @@ Preferred Programming Languages and Tools:
 Education  
 ----------------------------------------------------------------
 
+
+
 ----------------------------------------------------------------
 Selected Publications
 ----------------------------------------------------------------
+
+* Benjamin C. Pierce, Eijiro Sumii, Yusuke Endoh, Masahiro Sakai,
+  Keigo Imai, Yusuke Kuroki, Yoshihiro Imai, Takafumi Saikawa and
+  Takeo Imai, “型システム入門－プログラミング言語と型の理論－”
+  (Japanese translation of “Types and Programming Languages”).
+  Ohmsha, 2013. ISBN: 978-4-274-06911-6
+
+* Daniel Jackson, Shin Nakajima, Takeo Imai, Masahiro Sakai,
+  Yusuke Endoh and Yoshio Kataoka,
+  “抽象によるソフトウェア設計－Alloyではじめる形式手法”
+  (Japanese translation of “Software Abstractions: Logic,
+  Language, and Analysis”). Ohmsha, 2011. ISBN: 978-4-274-06858-4
+
+* Masahiro Sakai and Takeo Imai,
+  “Interplay between SAT and other Constraint Problems,”
+  Computer Software, Vol. 32, No. 1, pp.103-119, 2015.
+  doi:10.11309/jssst.32.1_103
+  https://www.jstage.jst.go.jp/article/jssst/32/1/32_1_103/_article/-char/en/
+
+* Kohei Maruchi, Hiromasa Shin and Masahiro Sakai,
+  "MC/DC-like Structural Coverage Criteria for Function Block Diagrams,"
+  In proceedings of Software Testing, Verification and Validation Workshops
+  (ICSTW). Cleveland, Ohio USA, 2014. pp. 253-259.
+  doi:10.1109/ICSTW.2014.27
+  http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6825670
+
+* Masahiro Sakai, Kohei Maruchi and Takeo Imai, "Model-checking
+  C programs against JML-like specification language," in Proceedings
+  of the 19th Asia-Pacific Software Engineering Conference (APSEC2012),
+  Hong Kong, 2012, pp. 174-183. doi:10.1109/APSEC.2012.68
+  http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6462652
+
+* Masahiro Sakai,
+  "Fusion Transformations Applicable to Non-Strict Functions,"
+  ("非正格関数に対して適用可能な融合変換,")
+  Master thesis, Graduate School of Media and Governance, Keio University,
+  Jan. 2007.
 
 ----------------------------------------------------------------
 Activities
