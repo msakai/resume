@@ -1,0 +1,52 @@
+MASAHIRO SAKAI
+
+A computer scientist and software engineer specializing in
+functional programming, formal methods, software engineering.
+
+* Phone : +81-80-3359-7660
+* Email : masahiro.sakai@gmaill.com
+* Web : http://msakai.jp
+* LinkedIn : http://www.linkedin.com/pub/masahiro-sakai/20/b65/391
+* GitHub : https://github.com/msakai
+
+----------------------------------------------------------------
+Professional Experience
+----------------------------------------------------------------
+
+Toshiba Corporation.
+http://www.toshiba.co.jp/worldwide/index.html
+Researcher
+04/2007 to Present
+
+Research and software engineering. (TBD)
+
+Key Accomplishments:
+
+* (TBD)
+
+----------------------------------------------------------------
+Skills
+----------------------------------------------------------------
+
+Engineering Knowledge and Interests:
+  Functional Programming, Language Design, Formal Methods,
+  Machine Learning, Recommendation System, Mathematical Optimization.
+
+Preferred Programming Languages and Tools:  
+  Haskell, Ruby, Python, C, SAT/SMT solvers.
+
+----------------------------------------------------------------
+Education  
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Selected Publications
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Activities
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Reference available upon request
+----------------------------------------------------------------
