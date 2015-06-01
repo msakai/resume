@@ -3,7 +3,6 @@ MASAHIRO SAKAI
 A computer scientist and software engineer specializing in
 functional programming, formal methods, software engineering.
 
-* Phone : +81-80-3359-7660
 * Email : masahiro.sakai@gmaill.com
 * Web : http://msakai.jp
 * LinkedIn : http://www.linkedin.com/pub/masahiro-sakai/20/b65/391
