@@ -1,4 +1,4 @@
-MASAHIRO SAKAI
+MASAHIRO SAKAI (酒井 政裕) -- Research and Development Engineer
 
 A computer scientist and software engineer specializing in
 functional programming, formal methods, software engineering.
