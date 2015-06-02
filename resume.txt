@@ -25,7 +25,17 @@ Key Accomplishments:
 * Semi-automatic test-case generation for FBD (Function Block Diagram)
   programs used in power plant control programs.
 
+* Specification mining based on UNSAT core enumeration.
+
+* Helping language/runtime design of Molatomium, a parallel
+ programming model for “Cell Broadband Engine”-like
+ heterogenious multicore processors and was shipped with
+ Toshiba's flagship digital TV “CELL REGZA”.
+ https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
+
 * CForge: Bounded model checker for C language.
+
+* Verification of workflow networks based on model checking.
 
 ----------------------------------------------------------------
 Skills
