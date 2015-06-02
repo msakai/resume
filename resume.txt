@@ -103,6 +103,52 @@ Selected Publications
 Activities
 ----------------------------------------------------------------
 
+* Study group of category theory (圏論勉強会): 2004 - 2012
+
+  Category theory is a highly general and abstract mathematical
+  theory, which has applications not only in mathmatics but also
+  in theoretical computer science, functional programming,
+  physics, linguistics and many other fields. I was one of core
+  members of the study group and we had studied following
+  materials:
+
+  * “Conceptual Mathematics: A First Introduction to Categories”
+    by F. William Lawvere and Stephen Hoel Schanuel,
+  * “Categories, Types, and Structures: An Introduction to
+    Category Theory for the Working Computer Scientist”
+    by Andrea Asperti and Giuseppe Longo,
+  * “The Haskell Programmer's Guide to the IO Monad — Don't
+    Panic” by Stefan Klinger,
+  * “Temperley-Lieb Algebra: From Knot Theory to Logic and
+    Computation via Quantum Mechanics”
+    by Samson Abramsky
+  * “A survey of graphical languages for monoidal categories”
+    by Peter Selinger
+  * “Categorical Logic and Type Theory”
+    by Bart Jacobs.
+
+  There is an Japanese article about this study group:
+  “Technical Study Session Map in Japan - Join a Live Session
+  of Engineers!”, 情報処理, Vol.52, No.4, Apr. 2011.
+  http://id.nii.ac.jp/1001/00073853/
+
+* RHG reading group (RHG読書会): 2003 - 2009
+
+  This study group was a group of programming language geeks.
+  It was started initially as a study group of reading
+  “Rubyソースコード完全解説” (known as “Ruby Hacking Guide”),
+  but eventually we have studied many programming and
+  programming langauge related books/materials:
+
+  * YARV (Ruby >=1.9 VM),
+  * なでしこ (a Japanese programmign language),
+  * MinCaml,
+  * “ふつうのLinuxプログラミング--Linuxの仕組みから学べるgccプログラミングの王道”,
+  * “ふつうのHaskellプログラミング--ふつうのプログラマのための関数型言語入門”,
+  * “入門JavaScript”,
+  * “実践Common Lisp” (Japanese translation of “Practical Common Lisp”),
+  * “ふつうのコンパイラをつくろう--言語処理系をつくりながら学ぶコンパイルと実行環境の仕組み”.
+
 ----------------------------------------------------------------
 Reference available upon request
 ----------------------------------------------------------------
