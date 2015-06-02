@@ -3,7 +3,7 @@ MASAHIRO SAKAI
 A computer scientist and software engineer specializing in
 functional programming, formal methods, software engineering.
 
-* Email : masahiro.sakai@gmaill.com
+* Email : masahiro.sakai@gmail.com
 * Web : http://msakai.jp
 * LinkedIn : http://www.linkedin.com/pub/masahiro-sakai/20/b65/391
 * GitHub : https://github.com/msakai
