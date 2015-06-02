@@ -87,6 +87,13 @@ Selected Publications
   doi:10.1109/ICSTW.2014.27
   http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6825670
 
+* Takeo Imai, Masahiro Sakai, Masami Hagiya, “An Inference
+  Method of Quasi-Weakest Preconditions by Minimal Unsatisfiable
+  Core Enumeration,”
+  Computer Software, Vol. 30, No. 2, 2013, pp. 207-226.
+  doi:10.11309/jssst.30.2_207
+  https://www.jstage.jst.go.jp/article/jssst/30/2/30_2_207/_article/-char/en/
+
 * Masahiro Sakai, Kohei Maruchi and Takeo Imai, "Model-checking
   C programs against JML-like specification language," in Proceedings
   of the 19th Asia-Pacific Software Engineering Conference (APSEC2012),
