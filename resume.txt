@@ -55,7 +55,7 @@ Education
   Faculty of Policy Management, Keio University.
 
 ----------------------------------------------------------------
-Selected Publications
+Books
 ----------------------------------------------------------------
 
 * Benjamin C. Pierce, Eijiro Sumii, Yusuke Endoh, Masahiro Sakai,
@@ -69,6 +69,10 @@ Selected Publications
   “抽象によるソフトウェア設計－Alloyではじめる形式手法”
   (Japanese translation of “Software Abstractions: Logic,
   Language, and Analysis”). Ohmsha, 2011. ISBN: 978-4-274-06858-4
+
+----------------------------------------------------------------
+Selected Publications
+----------------------------------------------------------------
 
 * Masahiro Sakai and Takeo Imai,
   “Interplay between SAT and other Constraint Problems,”
