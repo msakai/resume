@@ -22,8 +22,9 @@ Key Accomplishments:
 
 * Recommendation system for Kawasaki Grand City Mall project.
 
-* Semi-automatic test-case generation for FBD (Function Block Diagram)
-  programs used in power plant control programs.
+* SMT-based semi-automatic test-case generation for FBD
+  (Function Block Diagram) programs used in power plant control
+  systems.
 
 * Specification mining based on UNSAT core enumeration.
 
