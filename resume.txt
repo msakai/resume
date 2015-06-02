@@ -76,7 +76,7 @@ Selected Publications
 
 * Masahiro Sakai and Takeo Imai,
   “Interplay between SAT and other Constraint Problems,”
-  Computer Software, Vol. 32, No. 1, pp.103-119, 2015.
+  Computer Software, Vol. 32, No. 1, 2015, pp. 103-119.
   doi:10.11309/jssst.32.1_103
   https://www.jstage.jst.go.jp/article/jssst/32/1/32_1_103/_article/-char/en/
 
