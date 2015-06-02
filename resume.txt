@@ -12,16 +12,20 @@ functional programming, formal methods, software engineering.
 Professional Experience
 ----------------------------------------------------------------
 
-Toshiba Corporation.
+Researcher at Toshiba Corporation.
 http://www.toshiba.co.jp/worldwide/index.html
-Researcher
-04/2007 to Present
+Apr 2007 to Present
 
 Research and software engineering. (TBD)
 
 Key Accomplishments:
 
-* (TBD)
+* Recommendation system for Kawasaki Grand City Mall project.
+
+* Semi-automatic test-case generation for FBD (Function Block Diagram)
+  programs used in power plant control programs.
+
+* CForge: Bounded model checker for C language.
 
 ----------------------------------------------------------------
 Skills
