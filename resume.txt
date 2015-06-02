@@ -34,6 +34,10 @@ Engineering Knowledge and Interests:
 Preferred Programming Languages and Tools:  
   Haskell, Ruby, Python, C, SAT/SMT solvers.
 
+Languages:
+  Japanese: Native Speaker
+  English: Limited working proficiency (TOEIC IP score: 875)
+
 ----------------------------------------------------------------
 Education  
 ----------------------------------------------------------------
