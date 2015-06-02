@@ -100,6 +100,40 @@ Selected Publications
   Jan. 2007.
 
 ----------------------------------------------------------------
+Proffessinal Services
+----------------------------------------------------------------
+
+* External reviewer of IPSJ/SIGSE Software Engineering Symposium
+  (SES2014).
+
+* Reviewing technical books (about computer science and
+  functional programming) before publication:
+
+  * Graham Hutton and Kazuhiko Yamamoto, “プログラミングHaskell”
+    (Japanese translation of “Programming in Haskell”), Ohmsha,
+    2009. ISBN: 978-4274067815
+
+  * Jeremy Gibbons, Oege de Moor and Nobuo Yamashita,
+    “関数プログラミングの楽しみ”(Japanese translation of “the fun
+    of programming”), Ohmsha, 2010. ISBN: 978-4274068058
+
+  * Richard Bird and Nobuo Yamashita, “関数プログラミング入門 ―
+    Haskellで学ぶ原理と技法―” (Japanese translation of
+    “Introduction to Functional Programming with Haskell),
+    Ohmsha, 2012. IBSN: 978-4274068966
+
+  * Tom Stuart, Koichi Saasda and Takashi Sasai, “アンダースタン
+    ディング コンピュテーション--単純な機械から不可能なプログラムまで”
+    (Japanese translation of “Understanding Computation -- From
+    Simple Machines to Impossible Programs”, O'Reilly Japan,
+    2014. ISBN: 978-4873116976
+
+  * Richard Bird and Nobuo Yamashita, “関数プログラミング 珠玉の
+    アルゴリズムデザイン” (Japanese translation of “Pearls of
+    Functional Algorithm Design”), Ohmsha, 2014.
+    ISBN: 978-4274050640
+
+----------------------------------------------------------------
 Activities
 ----------------------------------------------------------------
 
