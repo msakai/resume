@@ -16,11 +16,18 @@ Researcher at Toshiba Corporation.
 http://www.toshiba.co.jp/worldwide/index.html
 Apr 2007 to Present
 
-Research and software engineering. (TBD)
-
-Key Accomplishments:
+I worked as a researcher for System Engineering Laboratory,
+Toshiba Research and Development Center. I have worked in
+software dependability team to apply formal methods, program
+analysis, test-case generation technology to achive more
+dependable systems. I have also worked in cities infrastructure
+solutions team and developed a recommendation system that
+recommend brick-and-mortar shops/goods on smart-phone for
+regional promotion.
 
 * Recommendation system for Kawasaki Grand City Mall project.
+  http://www.toshiba.co.jp/about/press/2013_12/pr_j1901.htm
+  http://www.city.kawasaki.jp/200/page/0000053904.html
 
 * SMT-based semi-automatic test-case generation for FBD
   (Function Block Diagram) programs used in power plant control
@@ -29,10 +36,10 @@ Key Accomplishments:
 * Specification mining based on UNSAT core enumeration.
 
 * Helping language/runtime design of Molatomium, a parallel
- programming model for “Cell Broadband Engine”-like
- heterogenious multicore processors and was shipped with
- Toshiba's flagship digital TV “CELL REGZA”.
- https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
+  programming model for “Cell Broadband Engine”-like
+  heterogenious multicore processors and was shipped with
+  Toshiba's flagship digital TV “CELL REGZA”.
+  https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
 
 * CForge: Bounded model checker for C language.
 
