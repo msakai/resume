@@ -50,15 +50,24 @@ Skills
 ----------------------------------------------------------------
 
 Engineering Knowledge and Interests:
-  Functional Programming, Language Design, Formal Methods,
-  Machine Learning, Recommendation System, Mathematical Optimization.
+  Functional Programming, Language Design, Formal Methods, Model
+  Checking, SAT/SMT solvers, Machine Learning, Recommendation
+  System, Mathematical Optimization.
 
-Preferred Programming Languages and Tools:  
-  Haskell, Ruby, Python, C, SAT/SMT solvers.
+Programming Languages:
+  Haskell, Ruby, Python, Java, C.
 
 Languages:
   Japanese: Native Speaker
-  English: Limited working proficiency (TOEIC IP score: 875)
+  English: Limited working proficiency
+
+----------------------------------------------------------------
+Qualitications
+----------------------------------------------------------------
+
+* TOEIC Institutional Program (IP) Score: 885 (Oct, 2008)
+
+
 
 ----------------------------------------------------------------
 Education  
