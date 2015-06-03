@@ -37,13 +37,13 @@ shops/goods on smart-phone for regional promotion.
 
 * Helping language/runtime design of “Molatomium”, a parallel
   programming model for “Cell Broadband Engine”-like
-  heterogenious multicore processors. Molatomium was shipped
+  heterogeneous multicore processors. Molatomium was shipped
   with Toshiba's flagship digital TV “CELL REGZA”.
   https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
 
 * CForge: Bounded model checker for C language.
 
-* Verification of workflow networks based on model checking.
+* Verification of work-flow networks based on model checking.
 
 ----------------------------------------------------------------
 Skills
@@ -63,7 +63,7 @@ Languages:
   English: Limited working proficiency
 
 ----------------------------------------------------------------
-Qualitications
+Qualifications
 ----------------------------------------------------------------
 
 * Coursera
@@ -108,7 +108,7 @@ Education
   Graduate School of Media and Governance, Keio University.  
   Master thesis: "Fusion Transformations Applicable to Non-Strict Functions"
   ("非正格関数に対して適用可能な融合変換").
-  Advisor: Prof. Tatsuya Hagino.
+  Adviser: Prof. Tatsuya Hagino.
 
 * March 2005: Bachelor of Arts in Policy Management,
   Faculty of Policy Management, Keio University.
@@ -166,7 +166,7 @@ Selected Publications
   Jan. 2007.
 
 ----------------------------------------------------------------
-Proffessinal Services
+Professional Services
 ----------------------------------------------------------------
 
 * External reviewer of IPSJ/SIGSE Software Engineering Symposium
@@ -213,7 +213,7 @@ Open Source Activities
   non-linear real arithmetic.
   In particular It contains a moderately-fast pure-Haskell
   SAT solver 'toysat'. I submitted it to solver competitions
-  (Pseudo Boolean Competition and Max-SAT Evalutions) and
+  (Pseudo Boolean Competition and Max-SAT Evaluations) and
   ranked high in some competition categories.
 
 * Ruby-GNOME2
@@ -221,7 +221,7 @@ Open Source Activities
 
   Ruby-GNOME2 is a set of Ruby language bindings for the
   GNOME >=2.0 development environment. I was one of core
-  developpers in the early days. In particular I have
+  developers in the early days. In particular I have
   designed/wrote a general bridge between Ruby's object system
   and GObject object system using reflection/introspection
   features and replaced non-extensible hard-coded one in
@@ -258,7 +258,7 @@ Other Activities
 * Study group of category theory (圏論勉強会): 2004 - 2012
 
   Category theory is a highly general and abstract mathematical
-  theory, which has applications not only in mathmatics but also
+  theory, which has applications not only in mathematics but also
   in theoretical computer science, functional programming,
   physics, linguistics and many other fields. I was one of core
   members of the study group and we had studied following
@@ -290,10 +290,10 @@ Other Activities
   It was started initially as a study group of reading
   “Rubyソースコード完全解説” (known as “Ruby Hacking Guide”),
   but eventually we have studied many programming and
-  programming langauge related books/materials:
+  programming language related books/materials:
 
   * YARV (Ruby >=1.9 VM),
-  * なでしこ (a Japanese programmign language),
+  * なでしこ (a Japanese programming language),
   * MinCaml,
   * “ふつうのLinuxプログラミング--Linuxの仕組みから学べるgccプログラミングの王道”,
   * “ふつうのHaskellプログラミング--ふつうのプログラマのための関数型言語入門”,
