@@ -18,12 +18,12 @@ Apr 2007 to Present
 
 I worked as a researcher for System Engineering Laboratory,
 Toshiba Research and Development Center. I have worked in
-software dependability team to apply formal methods, program
-analysis, test-case generation technology to achive more
-dependable systems. I have also worked in cities infrastructure
-solutions team and developed a recommendation system that
-recommend brick-and-mortar shops/goods on smart-phone for
-regional promotion.
+software dependability team to develop technology based on
+formal methods, program analysis, automatic test-case
+generation to achieve more dependable systems. I have also
+worked in cities infrastructure solutions team and developed
+a recommendation system that recommends brick-and-mortar
+shops/goods on smart-phone for regional promotion.
 
 * Recommendation system for Kawasaki Grand City Mall project.
   http://www.toshiba.co.jp/about/press/2013_12/pr_j1901.htm
@@ -35,10 +35,10 @@ regional promotion.
 
 * Specification mining based on UNSAT core enumeration.
 
-* Helping language/runtime design of Molatomium, a parallel
+* Helping language/runtime design of “Molatomium”, a parallel
   programming model for “Cell Broadband Engine”-like
-  heterogenious multicore processors and was shipped with
-  Toshiba's flagship digital TV “CELL REGZA”.
+  heterogenious multicore processors. Molatomium was shipped
+  with Toshiba's flagship digital TV “CELL REGZA”.
   https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
 
 * CForge: Bounded model checker for C language.
@@ -52,7 +52,8 @@ Skills
 Engineering Knowledge and Interests:
   Functional Programming, Language Design, Formal Methods, Model
   Checking, SAT/SMT solvers, Machine Learning, Recommendation
-  System, Mathematical Optimization.
+  System, Mathematical Optimization, Category Theroy, Type Theory,
+  Logic.
 
 Programming Languages:
   Haskell, Ruby, Python, Java, C.
@@ -107,6 +108,7 @@ Education
   Graduate School of Media and Governance, Keio University.  
   Master thesis: "Fusion Transformations Applicable to Non-Strict Functions"
   ("非正格関数に対して適用可能な融合変換").
+  Advisor: Prof. Tatsuya Hagino.
 
 * March 2005: Bachelor of Arts in Policy Management,
   Faculty of Policy Management, Keio University.
@@ -205,11 +207,11 @@ Open Source Activities
   http://hackage.haskell.org/package/toysolver
   https://github.com/msakai/toysolver
 
-  It provides solver implementation of various problems
-  including SAT, Max-SAT, PBS (Pseudo Boolean Satisfaction),
-  PBO (Pseudo Boolean Optimization), MILP (Mixed Integer
-  Linear Programming) and non-linear real arithmetic.
-  In particular it contains a moderately-fast pure-Haskell
+  Solver implementation of various problems including SAT,
+  Max-SAT, PBS (Pseudo Boolean Satisfaction), PBO (Pseudo Boolean
+  Optimization), MILP (Mixed Integer Linear Programming) and
+  non-linear real arithmetic.
+  In particular It contains a moderately-fast pure-Haskell
   SAT solver 'toysat'. I submitted it to solver competitions
   (Pseudo Boolean Competition and Max-SAT Evalutions) and
   ranked high in some competition categories.
@@ -218,7 +220,7 @@ Open Source Activities
   http://ruby-gnome2.osdn.jp/
 
   Ruby-GNOME2 is a set of Ruby language bindings for the
-  GNOME 2.0 development environment. I was one of core
+  GNOME >=2.0 development environment. I was one of core
   developpers in the early days. In particular I have
   designed/wrote a general bridge between Ruby's object system
   and GObject object system using reflection/introspection
@@ -229,28 +231,28 @@ Open Source Activities
   http://hackage.haskell.org/package/PTQ
   https://github.com/msakai/ptq
 
-  Montague grammer and PTQ (The Proper Treatment of
+  Montague grammer and the PTQ (The Proper Treatment of
   Quantification in Ordinary English) by Richard Montague
   were pioneering work in the field of formal semantics
   of natural languages, and showed that natural languages
   (like English) and formal languages (like programming
-  languages) can be treated in the same way. I implemented
-  his theory in interactive environment.
+  languages) can be treated in the similar way. I
+  implemented his theory in interactive environment.
 
 * CPL : A categorical programming language interpreter
   http://hackage.haskell.org/package/CPL
   https://github.com/msakai/cpl
 
-  I re-implemented CPL, a functional programming language
-  based on category theory, designed by Prof. Tatsuya Hagino.
-  In CPL, data types are declared in a categorical manner by
-  adjunctions. Each data type is declared with its basic
-  operations or morphisms. Programs consist of these morphisms,
-  and execution of programs is the reduction of elements (i.e.
-  special morphisms) to their canonical form.
+  I implemented an interpreter of CPL, a functional programming
+  language based on category theory, designed by Prof. Tatsuya
+  Hagino. In CPL, data types are declared in a categorical
+  manner by adjunctions. Each data type is declared with its
+  basic operations or morphisms. Programs consist of these
+  morphisms, and execution of programs is the reduction of
+  elements (i.e. special morphisms) to their canonical form.
 
 ----------------------------------------------------------------
-Activities
+Other Activities
 ----------------------------------------------------------------
 
 * Study group of category theory (圏論勉強会): 2004 - 2012
@@ -298,7 +300,3 @@ Activities
   * “入門JavaScript”,
   * “実践Common Lisp” (Japanese translation of “Practical Common Lisp”),
   * “ふつうのコンパイラをつくろう--言語処理系をつくりながら学ぶコンパイルと実行環境の仕組み”.
-
-----------------------------------------------------------------
-Reference available upon request
-----------------------------------------------------------------
