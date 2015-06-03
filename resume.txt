@@ -5,7 +5,7 @@ functional programming, formal methods, software engineering.
 
 * Email : masahiro.sakai@gmail.com
 * Web : http://msakai.jp
-* LinkedIn : http://www.linkedin.com/pub/masahiro-sakai/20/b65/391
+* LinkedIn : https://www.linkedin.com/in/masahirosakai
 * GitHub : https://github.com/msakai
 
 ----------------------------------------------------------------
