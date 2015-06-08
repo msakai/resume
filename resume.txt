@@ -169,7 +169,8 @@ Selected Publications
 Awards
 ----------------------------------------------------------------
 
-* 2015: 日本ソフトウェア科学会第19回研究論文賞
+* 2015: 日本ソフトウェア科学会第19回研究論文賞 from Japan Society for
+  Software Science and Technology (日本ソフトウェア科学会)
 
 ----------------------------------------------------------------
 Professional Services
