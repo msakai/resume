@@ -1,12 +1,24 @@
 MASAHIRO SAKAI (酒井 政裕) -- Research and Development Engineer
 
-A computer scientist and software engineer specializing in
-functional programming, formal methods, software engineering.
-
 * Email : masahiro.sakai@gmail.com
 * Web : http://msakai.jp
 * LinkedIn : https://www.linkedin.com/in/masahirosakai
 * GitHub : https://github.com/msakai
+
+Masahiro Sakai is a researcher in the field of theoretical computer
+science. He received a master degree in “Media and Governance” with
+“Cyber Informatics” concentration at Keio university. Currently he is
+working as a research scientist at Corporate Research & Development
+Center, Toshiba Corporation.
+
+He is passionate in learning new technologies / skills / knowledges
+and putting them in practice by writing code, and he strives hard
+toward perfection.
+
+His interest includs Programming Language Theory, Functional
+Programming, Software Engineering, Category Theory, Constraint
+Solving, SAT/SMT Solvers, Machine Learning, Mathematical Optimization,
+Computer Security.
 
 ----------------------------------------------------------------
 Professional Experience
