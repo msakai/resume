@@ -6,10 +6,11 @@ MASAHIRO SAKAI (酒井 政裕) -- Research and Development Engineer
 * GitHub : https://github.com/msakai
 
 Masahiro Sakai is a researcher in the field of theoretical computer
-science. He received a master degree in “Media and Governance” with
-“Cyber Informatics” concentration at Keio university. Currently he is
-working as a research scientist at Corporate Research & Development
-Center, Toshiba Corporation.
+science. He is working as a research scientist at Corporate Research
+& Development Center, Toshiba Corporation. He received a master degree
+in “Media and Governance” with “Cyber Informatics” concentration at
+Keio university. He translated "Software Abstraction” and ”Types and
+Programming Language” into Japanese with his colleagues.
 
 He is passionate in learning new technologies / skills / knowledges
 and putting them in practice by writing code, and he strives hard
