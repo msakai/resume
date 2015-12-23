@@ -333,3 +333,8 @@ Other Activities
   * “入門JavaScript”,
   * “実践Common Lisp” (Japanese translation of “Practical Common Lisp”),
   * “ふつうのコンパイラをつくろう--言語処理系をつくりながら学ぶコンパイルと実行環境の仕組み”.
+
+* Teaching Assistant
+  * 2014-2015: Toshiba Systems & Software Institute
+  * Feb. 2006: ベトナム高度IT教育者実践研修
+  * Aug. 2003 - Sep. 2003: ITスキル標準人材育成研修
