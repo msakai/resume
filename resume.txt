@@ -16,7 +16,7 @@ He is passionate in learning new technologies / skills / knowledges
 and putting them in practice by writing code, and he strives hard
 toward perfection.
 
-His interest includs Programming Language Theory, Functional
+His interest includes Programming Language Theory, Functional
 Programming, Software Engineering, Category Theory, Constraint
 Solving, SAT/SMT Solvers, Machine Learning, Mathematical Optimization,
 Computer Security.
