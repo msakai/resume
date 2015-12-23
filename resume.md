@@ -304,7 +304,7 @@ Other Activities
   * “Categorical Logic and Type Theory”
     by Bart Jacobs.
 
-  There is an Japanese article about this study group:
+  There is a Japanese article about this study group:
   “Technical Study Session Map in Japan - Join a Live Session
   of Engineers!”, 情報処理, Vol.52, No.4, Apr. 2011.
   http://id.nii.ac.jp/1001/00073853/
