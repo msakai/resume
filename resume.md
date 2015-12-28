@@ -69,7 +69,7 @@ Skills
   * Haskell, Ruby, Python, Java, C.
 * Languages:
   * Japanese: Native Speaker
-  * English: Limited working proficiency
+  * English:  Professional Proficiency
 
 Qualifications
 --------------
