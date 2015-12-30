@@ -272,13 +272,12 @@ Other Activities
 
 * Google Code Jam Japan 2011: 44th place among 918 participants
 
-* CTF for beginners 2015 Tokyo: 6th place among 103 participants
-
-* Trend Micro CTF Asia Pacific & Japan 2015 Online Qualifier:
-  46th place among 881 teams, as a team "Ten*48"
-
-* SECCON 2015 Online CTF:
-  43th place among 1251 teams, as a team "Ten*48"
+* Computer security competitions (CTF; Capture the Flag)
+  * CTF for beginners 2015 Tokyo: 6th place among 103 participants
+  * Trend Micro CTF Asia Pacific & Japan 2015 Online Qualifier:
+    46th place among 881 teams, as a team "Ten*48"
+  * SECCON 2015 Online CTF:
+    43th place among 1251 teams, as a team "Ten*48"
 
 * Study group of category theory (圏論勉強会): 2004 - 2012
 
