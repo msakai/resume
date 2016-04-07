@@ -97,7 +97,7 @@ Qualifications
   * Heterogeneous Parallel Programming (Mar. 2014)
     by Wen-mei W. Hwu, University of Illinois at Urbana-Champaign
   * Introduction to Recommender Systems (Dec. 2013)
-    by Joseph A Konstan and Michael D Ekstrand, University of Minnesota
+    by Joseph A. Konstan and Michael D. Ekstrand, University of Minnesota
   * Maps and the Geospatial Revolution (Aug. 2013)
     by Anthony C. Robinson, The Pennsylvania State University
   * Developing Innovative Ideas for New Companies: The First Step
