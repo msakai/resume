@@ -37,9 +37,16 @@ worked in cities infrastructure solutions team and developed
 a recommendation system that recommends brick-and-mortar
 shops/goods on smart-phone for regional promotion.
 
-* Recommendation system for Kawasaki Grand City Mall project.
+* Recommendation system for Kawasaki Grand City Mall project:
+  Toshiba carried a demonstration experiment on smart city
+  and O2O service around Kawasaki Station (c.f.
   http://www.toshiba.co.jp/about/press/2013_12/pr_j1901.htm
   http://www.city.kawasaki.jp/200/page/0000053904.html
+  (written in Japanese)). As part of this experiment, we
+  have developed a recommendation system that recommends
+  brick-and-mortar shops/goods on smart-phone for regional
+  promotion. I leaded a team for data analysis and
+  recommendation algorithm development.
 
 * SMT-based semi-automatic test-case generation for FBD
   (Function Block Diagram) programs used in power plant control
@@ -53,7 +60,13 @@ shops/goods on smart-phone for regional promotion.
   with Toshiba's flagship digital TV “CELL REGZA”.
   https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
 
-* CForge: Bounded model checker for C language.
+* CForge: CForge is a C program analyzer based on a program
+  analysis framework Forge developed by the Software Design
+  Group (SDG) at MIT, and we developed CForge as part of a
+  joint research project with MIT SDG. I worked as a main
+  developper of CForge, and worked on its overall design,
+  design of our formal specification langauge for C, implementaion
+  of a kind of C compiler, and so on.
 
 * Verification of work-flow networks based on model checking.
 
