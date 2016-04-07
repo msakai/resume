@@ -89,30 +89,30 @@ Qualifications
 
 * Coursera
   * Process Mining: Data science in Action (May. 2015)
-    by Wil van der Aalst, Eindhoven University of Technology
+    by Prof. Wil van der Aalst, Eindhoven University of Technology
   * Discrete Optimization (May. 2015)
-    by Professor Pascal Van Hentenryck, The University of Melbourne
+    by Prof. Pascal Van Hentenryck, The University of Melbourne
   * Gamification (Mar. 2015)
-    by Kevin Werbach, University of Pennsylvania
+    by Assoc. Prof. Kevin Werbach, University of Pennsylvania
   * Heterogeneous Parallel Programming (Mar. 2014)
-    by Wen-mei W. Hwu, University of Illinois at Urbana-Champaign
+    by Prof. Wen-mei W. Hwu, University of Illinois at Urbana-Champaign
   * Introduction to Recommender Systems (Dec. 2013)
-    by Joseph A. Konstan and Michael D. Ekstrand, University of Minnesota
+    by Prof. Joseph A. Konstan and Assist. Prof. Michael D. Ekstrand, University of Minnesota
   * Maps and the Geospatial Revolution (Aug. 2013)
-    by Anthony C. Robinson, The Pennsylvania State University
+    by Assist. Prof. Anthony C. Robinson, The Pennsylvania State University
   * Developing Innovative Ideas for New Companies: The First Step
     in Entrepreneurship (May. 2013)
-    by James V. Green, University of Maryland, College Park
+    by Dr. James V. Green, University of Maryland, College Park
   * Model Thinking (Aug. 2013)
-    by Scott E. Page, University of Michigan
+    by Prof. Scott E. Page, University of Michigan
   * Machine Learning (Jul. 2013)
-    by Andrew Ng, Stanford University
+    by Assoc. Prof. Andrew Ng, Stanford University
   * Linear and Discrete Optimization (Apr. 2013)
-    by Friedrich Eisenbrand, École Polytechnique Fédérale de Lausanne
+    by Prof. Friedrich Eisenbrand, École Polytechnique Fédérale de Lausanne
   * Data Analysis (Mar. 2013)
-    by Jeff Leek, Johns Hopkins University
+    by Assist. Prof. Jeff Leek, Johns Hopkins University
   * Computing for Data Analysis (Jan. 2013)
-    by Roger D. Peng, Johns Hopkins University
+    by Assoc. Prof. Roger D. Peng, Johns Hopkins University
 
 * TOEIC Institutional Program (IP) Score 905 (Aug. 2015)
   * (Listening: 425; Reading: 480)
