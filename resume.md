@@ -187,8 +187,10 @@ Selected Publications
 Recoginition & Awards
 ---------------------
 
-* 2015: 日本ソフトウェア科学会第19回研究論文賞 from Japan Society for
-  Software Science and Technology (日本ソフトウェア科学会)
+* 2015: the 19th Research Paper Award from Japan Society for
+  Software Science and Technology for the paper “An Inference Method of
+  Quasi-Weakest Preconditions by Minimal Unsatisfiable Core Enumeration”
+  (日本ソフトウェア科学会第19回研究論文賞)
 * 2014 (社内表彰): 株式会社東芝 コミュニティ・ソリューション社
   知的財産活動奨励賞 (平成26年7月7日)
 
