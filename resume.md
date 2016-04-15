@@ -234,7 +234,7 @@ Professional Services
   * Tom Stuart, Koichi Saasda and Takashi Sasai, “アンダースタン
     ディング コンピュテーション--単純な機械から不可能なプログラムまで”
     (Japanese translation of “Understanding Computation -- From
-    Simple Machines to Impossible Programs”, O'Reilly Japan, 2014.
+    Simple Machines to Impossible Programs”), O'Reilly Japan, 2014.
     ISBN: 978-4873116976
 
   * Richard Bird and Nobuo Yamashita, “関数プログラミング 珠玉の
