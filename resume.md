@@ -308,6 +308,8 @@ Other Activities
     46th place among 881 teams, as a team "Ten*48"
   * SECCON 2015 Online CTF:
     43th place among 1251 teams, as a team "Ten*48"
+  * DEF CON CTF Qualifier 2016:
+    164th place among 1335 teams, as a team "Ten*48"
 
 * Study group of category theory (圏論勉強会): 2004 - 2012
 
