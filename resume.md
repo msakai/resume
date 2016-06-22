@@ -38,35 +38,38 @@ a recommendation system that recommends brick-and-mortar
 shops/goods on smart-phone for regional promotion.
 
 * Recommendation system for Kawasaki Grand City Mall project
-  * Toshiba carried a demonstration experiment on smart city
-    and O2O service around Kawasaki Station (c.f.
-    http://www.toshiba.co.jp/about/press/2013_12/pr_j1901.htm
-    http://www.city.kawasaki.jp/200/page/0000053904.html
-    (written in Japanese)). As part of this experiment, we
-    have developed a recommendation system that recommends
-    brick-and-mortar shops/goods on smart-phone for regional
-    promotion. I leaded a team for data analysis and
-    recommendation algorithm development.
+
+  Toshiba carried a demonstration experiment on smart city
+  and O2O service around Kawasaki Station (c.f.
+  http://www.toshiba.co.jp/about/press/2013_12/pr_j1901.htm
+  http://www.city.kawasaki.jp/200/page/0000053904.html
+  (written in Japanese)). As part of this experiment, we
+  have developed a recommendation system that recommends
+  brick-and-mortar shops/goods on smart-phone for regional
+  promotion. I leaded a team for data analysis and
+  recommendation algorithm development.
 
 * SMT-based semi-automatic test-case generation for FBD
   (Function Block Diagram) programs for power plant control
   systems:
-  * Power plant controllers are often programmed using graphical
-    data flow language such as Function Block Diagram (FBD).
-    We have proposed new test coverage criteria for FBD and
-    developed technology to automatically generate test cases
-    that satisfy the proposed criteria. I developed core
-    algorithms of our approach that encodes both FBD programs
-    and conditions for proposed criteria into logical formula and
-    solves the conjoined formula using SMT solvers to generate
-    test cases.
+
+  Power plant controllers are often programmed using graphical
+  data flow language such as Function Block Diagram (FBD).
+  We have proposed new test coverage criteria for FBD and
+  developed technology to automatically generate test cases
+  that satisfy the proposed criteria. I developed core
+  algorithms of our approach that encodes both FBD programs
+  and conditions for proposed criteria into logical formula and
+  solves the conjoined formula using SMT solvers to generate
+  test cases.
 
 * Specification mining based on UNSAT core enumeration:
-  * Specification mining tackles the software maintenance and
-    reliability issues by mining latent specification from
-    source code. We have developed technology to mine pre-condition
-    (one type of specification) by combining model checking and minimal
-    unsatisfiable core enumeration problem. 
+
+  Specification mining tackles the software maintenance and
+  reliability issues by mining latent specification from
+  source code. We have developed technology to mine pre-condition
+  (one type of specification) by combining model checking and minimal
+  unsatisfiable core enumeration problem. 
 
 * Helping language/runtime design of “Molatomium”, a parallel
   programming model for “Cell Broadband Engine”-like
@@ -75,13 +78,14 @@ shops/goods on smart-phone for regional promotion.
   https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
 
 * CForge: Bounded model checker for C language.
-  * CForge is a C program analyzer based on a program
-    analysis framework Forge developed by the Software Design
-    Group (SDG) at MIT, and we developed CForge as part of a
-    joint research project with MIT SDG. I worked as a main
-    developper of CForge, and worked on its overall design,
-    design of our formal specification langauge for C, implementaion
-    of a kind of C compiler, and so on.
+
+  CForge is a C program analyzer based on a program
+  analysis framework Forge developed by the Software Design
+  Group (SDG) at MIT, and we developed CForge as part of a
+  joint research project with MIT SDG. I worked as a main
+  developper of CForge, and worked on its overall design,
+  design of our formal specification langauge for C, implementaion
+  of a kind of C compiler, and so on.
 
 * Verification of work-flow networks based on model checking.
 
