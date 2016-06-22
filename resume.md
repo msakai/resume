@@ -246,6 +246,11 @@ Professional Services
     Functional Algorithm Design”), Ohmsha, 2014.
     ISBN: 978-4274050640
 
+  * Mark C. Chu-Carroll and cocoatomo, “グッド・マス ギークのための数・論理・計算機科学”
+    (Japanese translation of “Good Math: A Geek's Guide to the
+    Beauty of Numbers, Logic, and Computation”), Ohmsha, 2016.
+    ISBN: 978-4-274-21896-5
+
 Open Source Activities
 ----------------------
 
