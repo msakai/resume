@@ -153,8 +153,8 @@ Education
 * March 2005: Bachelor of Arts in Policy Management,
   Faculty of Policy Management, Keio University.
 
-Books
------
+Books and Selected Publications
+-------------------------------
 
 * Benjamin C. Pierce, Eijiro Sumii, Yusuke Endoh, Masahiro Sakai,
   Keigo Imai, Yusuke Kuroki, Yoshihiro Imai, Takafumi Saikawa and
@@ -167,9 +167,6 @@ Books
   “抽象によるソフトウェア設計－Alloyではじめる形式手法”
   (Japanese translation of “Software Abstractions: Logic,
   Language, and Analysis”). Ohmsha, 2011. ISBN: 978-4-274-06858-4
-
-Selected Publications
----------------------
 
 * Masahiro Sakai and Takeo Imai,
   “Interplay between SAT and other Constraint Problems,”
