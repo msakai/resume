@@ -212,8 +212,8 @@ Recoginition & Awards
 Professional Services
 ---------------------
 
-* External reviewer of IPSJ/SIGSE Software Engineering Symposium
-  (SES2014).
+* External reviewer of IPSJ/SIGSE Software Engineering Symposiums
+  (SES2014, SES2015).
 
 * Reviewing technical books (about computer science and
   functional programming) before publication:
