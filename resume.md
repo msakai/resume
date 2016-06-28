@@ -133,8 +133,7 @@ Qualifications
   * Computing for Data Analysis (Jan. 2013)
     by Assoc. Prof. Roger D. Peng, Johns Hopkins University
 
-* TOEIC Institutional Program (IP) Score 905 (Aug. 2015)
-  * (Listening: 425; Reading: 480)
+* TOEIC Institutional Program (IP) Score 905 (Listening: 425; Reading: 480) (Aug. 2015)
 
 * C言語ベースの組込みハードウェア設計 (A course on C-based designing
   embedded hardware design) (Oct. 2007)
