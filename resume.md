@@ -13,14 +13,14 @@ in “Media and Governance” with “Cyber Informatics” concentration at
 Keio university. He translated "Software Abstractions” and ”Types and
 Programming Languages” into Japanese with his colleagues.
 
-He is passionate in learning new technologies / skills / knowledges
+He is passionate in learning new technologies / skills / knowledge
 and putting them in practice by writing code, and he strives hard
 toward perfection.
 
 His interest includes Programming Language Theory, Functional
 Programming, Software Engineering, Category Theory, Constraint
 Solving, SAT/SMT Solvers, Machine Learning, Mathematical Optimization,
-Computer Security.
+and Computer Security.
 
 Professional Experience
 -----------------------
@@ -85,8 +85,8 @@ shops/goods on smart-phone for regional promotion.
   analysis framework Forge developed by the Software Design
   Group (SDG) at MIT, and we developed CForge as part of a
   joint research project with MIT SDG. I worked as a main
-  developper of CForge, and worked on its overall design,
-  design of our formal specification langauge for C, implementaion
+  developer of CForge, and worked on its overall design,
+  design of our formal specification language for C, implementation
   of a kind of C compiler, and so on.
 
 * Verification of work-flow networks based on model checking (2007).
@@ -97,7 +97,7 @@ Skills
 * Engineering Knowledge and Interests:
   * Functional Programming, Language Design, Formal Methods, Model
     Checking, SAT/SMT solvers, Machine Learning, Recommendation
-    System, Mathematical Optimization, Category Theroy, Type Theory,
+    System, Mathematical Optimization, Category Theory, Type Theory,
     Logic.
 * Programming Languages:
   * Haskell, Ruby, Python, Java, C.
@@ -201,8 +201,8 @@ Books and Selected Publications
   Master thesis, Graduate School of Media and Governance, Keio University,
   Jan. 2007.
 
-Recoginition & Awards
----------------------
+Recognition and Awards
+----------------------
 
 * 2015: the 19th Research Paper Award from Japan Society for
   Software Science and Technology for the paper “An Inference Method of
