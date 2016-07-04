@@ -37,7 +37,8 @@ worked in cities infrastructure solutions team and developed
 a recommendation system that recommends brick-and-mortar
 shops/goods on smart-phone for regional promotion.
 
-* Recommendation system for Kawasaki Grand City Mall project (2013-2015):
+* Recommendation system for Kawasaki Grand City Mall project
+  (2013-2015):
 
   Toshiba carried a demonstration experiment on smart city
   and O2O service around Kawasaki Station (c.f.
@@ -49,9 +50,8 @@ shops/goods on smart-phone for regional promotion.
   promotion. I leaded a team for data analysis and
   recommendation algorithm development.
 
-* SMT-based semi-automatic test-case generation for FBD
-  (Function Block Diagram) programs for power plant control
-  systems (2010-2014):
+* SMT-based semi-automatic test-case generation for power
+  plant control systems (2010-2014):
 
   Power plant controllers are often programmed using graphical
   data flow language such as Function Block Diagram (FBD).
@@ -69,7 +69,7 @@ shops/goods on smart-phone for regional promotion.
   programming model for “Cell Broadband Engine”-like
   heterogeneous multicore processors, which was shipped
   with Toshiba's flagship digital TV “CELL REGZA”.
-  https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
+  (c.f. https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice )
 
 * Specification mining based on UNSAT core enumeration (2008-):
 
