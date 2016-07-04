@@ -71,9 +71,11 @@ shops/goods on smart-phone for regional promotion.
   (one type of specification) by combining model checking and minimal
   unsatisfiable core enumeration problem. 
 
-* Helping language/runtime design of “Molatomium”, a parallel
+* Molatomium.
+
+  I helped language/runtime design of “Molatomium”, a parallel
   programming model for “Cell Broadband Engine”-like
-  heterogeneous multicore processors. Molatomium was shipped
+  heterogeneous multicore processors, which was shipped
   with Toshiba's flagship digital TV “CELL REGZA”.
   https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
 
