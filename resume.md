@@ -63,14 +63,6 @@ shops/goods on smart-phone for regional promotion.
   solves the conjoined formula using SMT solvers to generate
   test cases.
 
-* Specification mining based on UNSAT core enumeration (2008-):
-
-  Specification mining tackles the software maintenance and
-  reliability issues by mining latent specification from
-  source code. We have developed technology to mine pre-condition
-  (one type of specification) by combining model checking and minimal
-  unsatisfiable core enumeration problem. 
-
 * Molatomium (2009-2011):
 
   I helped language/runtime design of “Molatomium”, a parallel
@@ -78,6 +70,14 @@ shops/goods on smart-phone for regional promotion.
   heterogeneous multicore processors, which was shipped
   with Toshiba's flagship digital TV “CELL REGZA”.
   https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
+
+* Specification mining based on UNSAT core enumeration (2008-):
+
+  Specification mining tackles the software maintenance and
+  reliability issues by mining latent specification from
+  source code. We have developed technology to mine pre-condition
+  (one type of specification) by combining model checking and minimal
+  unsatisfiable core enumeration problem.
 
 * CForge: Bounded model checker for C language (2008-2012):
 
