@@ -37,7 +37,7 @@ worked in cities infrastructure solutions team and developed
 a recommendation system that recommends brick-and-mortar
 shops/goods on smart-phone for regional promotion.
 
-* Recommendation system for Kawasaki Grand City Mall project
+* Recommendation system for Kawasaki Grand City Mall project (2013-2015):
 
   Toshiba carried a demonstration experiment on smart city
   and O2O service around Kawasaki Station (c.f.
@@ -51,7 +51,7 @@ shops/goods on smart-phone for regional promotion.
 
 * SMT-based semi-automatic test-case generation for FBD
   (Function Block Diagram) programs for power plant control
-  systems:
+  systems (2010-2014):
 
   Power plant controllers are often programmed using graphical
   data flow language such as Function Block Diagram (FBD).
@@ -63,7 +63,7 @@ shops/goods on smart-phone for regional promotion.
   solves the conjoined formula using SMT solvers to generate
   test cases.
 
-* Specification mining based on UNSAT core enumeration:
+* Specification mining based on UNSAT core enumeration (2008-):
 
   Specification mining tackles the software maintenance and
   reliability issues by mining latent specification from
@@ -71,7 +71,7 @@ shops/goods on smart-phone for regional promotion.
   (one type of specification) by combining model checking and minimal
   unsatisfiable core enumeration problem. 
 
-* Molatomium.
+* Molatomium (2009-2011):
 
   I helped language/runtime design of “Molatomium”, a parallel
   programming model for “Cell Broadband Engine”-like
@@ -79,7 +79,7 @@ shops/goods on smart-phone for regional promotion.
   with Toshiba's flagship digital TV “CELL REGZA”.
   https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice
 
-* CForge: Bounded model checker for C language.
+* CForge: Bounded model checker for C language (2008-2012):
 
   CForge is a C program analyzer based on a program
   analysis framework Forge developed by the Software Design
@@ -89,7 +89,7 @@ shops/goods on smart-phone for regional promotion.
   design of our formal specification langauge for C, implementaion
   of a kind of C compiler, and so on.
 
-* Verification of work-flow networks based on model checking.
+* Verification of work-flow networks based on model checking (2007).
 
 Skills
 ------
