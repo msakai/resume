@@ -317,6 +317,8 @@ Other Activities
     43th place among 1251 teams, as a team "Ten*48"
   * DEF CON CTF Qualifier 2016:
     164th place among 1335 teams, as a team "Ten*48"
+  * HITCON CTF 2016 Quals:
+    34th place among 1024 teams, as a team "Ten*48"
 
 * Study group of category theory (圏論勉強会): 2004 - 2012
 
