@@ -137,8 +137,8 @@ Qualifications
 
 * TOEIC Institutional Program (IP) Score 925 (Listening: 460; Reading: 465) (Aug. 2016)
 
-* C言語ベースの組込みハードウェア設計 (A course on C-based designing
-  embedded hardware design) (Oct. 2007)
+* C言語ベースの組込みハードウェア設計 (A course on C-based design of
+  embedded hardware) (Oct. 2007)
   by NEXCESS (Nagoya University Extension Coursers for Embedded
   Software Specialists).
 
