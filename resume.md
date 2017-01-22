@@ -40,7 +40,7 @@ shops/goods on smart-phone for regional promotion.
 * Economic load dispatch (2015-2016):
 
   Economic load dispatch is the determination of the output
-  of electricity generation units, that meet the electlicity
+  of electricity generation units, that meet the electricity
   demands with lowest possible cost, subject to complex
   operational constraints. I assisted research project of
   economic load dispatch problem by removing performance
