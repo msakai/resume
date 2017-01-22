@@ -37,6 +37,21 @@ worked in cities infrastructure solutions team and developed
 a recommendation system that recommends brick-and-mortar
 shops/goods on smart-phone for regional promotion.
 
+* Economic load dispatch (2015-2016):
+
+  Economic load dispatch is the determination of the output
+  of electricity generation units, that meet the electlicity
+  demands with lowest possible cost, subject to complex
+  operational constraints. I assisted research project of
+  economic load dispatch problem by removing performance
+  bottlenecks of our prototype optimization system, setting
+  up continuous integration environment, and writing minor
+  modules of the system. My work is partly applied to the
+  system for TEPCO Fuel & Power, Incorporated.
+  (c.f. http://www3.toshiba.co.jp/power/whatsnew/topics/20161026/index_j.htm
+  http://www.toshiba.co.jp/tech/review/2016/03/71_03pdf/0A.pdf#page=6
+  (written in Japanese))
+
 * Recommendation system for Kawasaki Grand City Mall project
   (2013-2015):
 
