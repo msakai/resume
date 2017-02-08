@@ -80,7 +80,7 @@ shops/goods on smart-phone for regional promotion.
 
 * Molatomium (2009-2011):
 
-  I helped language/runtime design of “Molatomium”, a parallel
+  I assisted language/runtime design of “Molatomium”, a parallel
   programming model for “Cell Broadband Engine”-like
   heterogeneous multicore processors, which was shipped
   with Toshiba's flagship digital TV “CELL REGZA”.
@@ -90,9 +90,9 @@ shops/goods on smart-phone for regional promotion.
 
   Specification mining tackles the software maintenance and
   reliability issues by mining latent specification from
-  source code. We have developed technology to mine pre-condition
+  source code. We have developed novel technology to mine pre-condition
   (one type of specification) by combining model checking and minimal
-  unsatisfiable core enumeration problem.
+  unsatisfiable core enumeration.
 
 * CForge: Bounded model checker for C language (2008-2012):
 
@@ -154,7 +154,7 @@ Qualifications
 
 * C言語ベースの組込みハードウェア設計 (A course on C-based design of
   embedded hardware) (Oct. 2007)
-  by NEXCESS (Nagoya University Extension Coursers for Embedded
+  by NEXCESS (Nagoya University Extension Courses for Embedded
   Software Specialists).
 
 Education  
