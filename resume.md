@@ -25,8 +25,9 @@ and Computer Security.
 Professional Experience
 -----------------------
 
-Research Scientist at [Toshiba Corporation](http://www.toshiba.co.jp/worldwide/index.html).
-Apr 2007 to Present
+### [Toshiba Corporation](http://www.toshiba.co.jp/worldwide/index.html)
+
+Engineer (Apr 2007 to June 2015) and Research Scientist (July 2015 to Present):
 
 I worked as a researcher for System Engineering Laboratory,
 Toshiba Research and Development Center. I have worked in
