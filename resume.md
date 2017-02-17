@@ -10,7 +10,7 @@ Masahiro Sakai is a researcher in the field of theoretical computer
 science. He is working as a research scientist at Corporate Research
 & Development Center, Toshiba Corporation. He received a master degree
 in “Media and Governance” with “Cyber Informatics” concentration at
-Keio university. He translated "Software Abstractions” and ”Types and
+Keio university. He translated “Software Abstractions” and “Types and
 Programming Languages” into Japanese with his colleagues.
 
 He is passionate in learning new technologies / skills / knowledge
@@ -32,7 +32,7 @@ Engineer (Apr 2007 to June 2015) and Research Scientist (July 2015 to Present):
 I worked as a researcher for System Engineering Laboratory,
 Toshiba Research and Development Center. I have worked in
 software dependability team to develop technology based on
-formal methods, program analysis, automatic test-case
+formal methods, program analysis, and automatic test-case
 generation to achieve more dependable systems. I have also
 worked in cities infrastructure solutions team and developed
 a recommendation system that recommends brick-and-mortar
@@ -41,7 +41,7 @@ shops/goods on smart-phone for regional promotion.
 * Economic load dispatch (2015-2016):
 
   Economic load dispatch is the determination of the output
-  of electricity generation units, that meet the electricity
+  of electricity generation units that meet the electricity
   demands with lowest possible cost, subject to complex
   operational constraints. I assisted research project of
   economic load dispatch problem by removing performance
