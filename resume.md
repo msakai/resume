@@ -233,7 +233,7 @@ Professional Services
 * External reviewer of IPSJ/SIGSE Software Engineering Symposiums
   (SES2014, SES2015).
 
-* Reviewing technical books (about computer science and
+* Reviewed some technical books (about computer science and
   functional programming) before publication:
 
   * Graham Hutton and Kazuhiko Yamamoto, “プログラミングHaskell”
@@ -296,7 +296,7 @@ Open Source Activities
 
 * PTQ : An implementation of Montague's PTQ in Haskell
 
-  Montague grammer and the PTQ (The Proper Treatment of
+  Montague grammar and the PTQ (The Proper Treatment of
   Quantification in Ordinary English) by Richard Montague
   were pioneering work in the field of formal semantics
   of natural languages, and showed that natural languages
