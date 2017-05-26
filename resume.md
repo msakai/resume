@@ -224,6 +224,7 @@ Books and Selected Publications
 Recognition and Awards
 ----------------------
 
+* 2017 (社内表彰): 株式会社東芝 研究開発センター 業績賞優秀賞 (平成29年4月6日)
 * 2015: the 19th Research Paper Award from Japan Society for
   Software Science and Technology for the paper “An Inference Method of
   Quasi-Weakest Preconditions by Minimal Unsatisfiable Core Enumeration”
