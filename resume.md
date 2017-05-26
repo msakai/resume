@@ -7,8 +7,8 @@ MASAHIRO SAKAI (酒井 政裕) ― Research and Development Engineer
 * GitHub : https://github.com/msakai
 
 Masahiro Sakai is a researcher in the field of theoretical computer
-science. He is working as a research scientist at Corporate Research
-& Development Center, Toshiba Corporation. He received a master degree
+science. He is working as a software engineer at Preferred Networks, Inc.
+He received a master degree
 in “Media and Governance” with “Cyber Informatics” concentration at
 Keio university. He translated “Software Abstractions” and “Types and
 Programming Languages” into Japanese with his colleagues.
@@ -25,9 +25,13 @@ and Computer Security.
 Professional Experience
 -----------------------
 
+### [Preferred Networks](https://www.preferred-networks.jp)
+
+Engineer (May 2017 to Present)
+
 ### [Toshiba Corporation](http://www.toshiba.co.jp/worldwide/index.html)
 
-Engineer (Apr 2007 to June 2015) and Research Scientist (July 2015 to Present):
+Engineer (Apr 2007 to June 2015) and Research Scientist (July 2015 to April 2017):
 
 I worked as a researcher for System Engineering Laboratory,
 Toshiba Research and Development Center. I have worked in
