@@ -155,7 +155,7 @@ Qualifications
   * Computing for Data Analysis (Jan. 2013)
     by Assoc. Prof. Roger D. Peng, Johns Hopkins University
 
-* TOEIC Score 960 (Listening: 470; Reading: 470) (Mar. 2018)
+* TOEIC Score 960 (Listening: 490; Reading: 470) (Mar. 2018)
 
 * C言語ベースの組込みハードウェア設計 (A course on C-based design of
   embedded hardware) (Oct. 2007)
