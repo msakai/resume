@@ -29,6 +29,11 @@ Professional Experience
 
 Engineer (May 2017 to Present)
 
+* Research for applying deep learning technologies in the field of automated
+  theorem proving (ATP).
+* Several PoC projects for using machine learning in industrial domains
+* [Menoh](https://github.com/pfnet-research/menoh) DNN inference library. 
+
 ### [Toshiba Corporation](http://www.toshiba.co.jp/worldwide/index.html)
 
 Engineer (Apr 2007 to June 2015) and Research Scientist (July 2015 to April 2017):
