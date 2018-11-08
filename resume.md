@@ -270,6 +270,10 @@ Professional Services
     Beauty of Numbers, Logic, and Computation”), Ohmsha, 2016.
     ISBN: 978-4-274-21896-5
 
+  * Tomoshi Otsuki and Youichiro Miyake, “最強囲碁AI アルファ碁 解体新書 増補改訂版 
+    アルファ碁ゼロ対応 深層学習、モンテカルロ木探索、強化学習から見たその仕組み” (A commentary
+    on AlphaGo and AlphaGo Zero), Shoeisha, 2018. ISBN: 9784798157771
+
 Open Source Activities
 ----------------------
 
