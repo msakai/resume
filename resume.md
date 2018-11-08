@@ -189,6 +189,11 @@ Books and Selected Publications
   (Japanese translation of “Software Abstractions: Logic,
   Language, and Analysis”). Ohmsha, 2011. ISBN: 978-4-274-06858-4
 
+* Mitsuru Kusumoto, Keisuke Yahata, and Masahiro Sakai,
+  "Automated theorem proving in intuitionistic propositional logic
+  by deep reinforcement learning," Nov. 2018.
+  https://arxiv.org/abs/1811.00796
+
 * Masahiro Sakai and Takeo Imai,
   “Interplay between SAT and other Constraint Problems,”
   Computer Software, Vol. 32, No. 1, 2015, pp. 103-119.
