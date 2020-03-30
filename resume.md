@@ -245,6 +245,10 @@ Recognition and Awards
 Professional Services
 ---------------------
 
+* [日本ソフトウェア科学会 機械学習工学研究会（MLSE）](https://sites.google.com/view/sig-mlse/) 発起人
+
+* [第21回プログラミングおよびプログラミング言語ワークショップ (PPL 2019)](https://jssst-ppl.org/workshop/2019/) プログラム委員
+
 * External reviewer of IPSJ/SIGSE Software Engineering Symposiums
   (SES2014, SES2015).
 
