@@ -134,6 +134,8 @@ Qualifications
 --------------
 
 * Coursera
+  * Oil & Gas Industry Operations and Markets (Apr. 2020)
+    by Prof. Lincoln Pratson, Duke University
   * Process Mining: Data science in Action (May. 2015)
     by Prof. Wil van der Aalst, Eindhoven University of Technology
   * Discrete Optimization (May. 2015)
