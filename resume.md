@@ -196,6 +196,12 @@ Books and Selected Publications
   (Japanese translation of “Software Abstractions: Logic,
   Language, and Analysis”). Ohmsha, 2011. ISBN: 978-4-274-06858-4
 
+* Momoko Hattori, Shimpei Sawada, Shinichiro Hamaji, Masahiro Sakai, Shunsuke Shimizu,
+  "Semi-static type, shape, and symbolic shape inference for dynamic computation,"
+  In MAPL 2020: Proceedings of the 4th ACM SIGPLAN International Workshop on
+  Machine Learning and Programming Languages, Jun. 2020, pp. 11–19,
+  https://dl.acm.org/doi/abs/10.1145/3394450.3397465
+
 * Mitsuru Kusumoto, Keisuke Yahata, and Masahiro Sakai,
   "Automated theorem proving in intuitionistic propositional logic
   by deep reinforcement learning," Nov. 2018.
