@@ -27,7 +27,7 @@ Professional Experience
 
 ### [Preferred Networks](https://www.preferred-networks.jp)
 
-Engineer (May 2017 to Present)
+Engineer (May 2017 to Present) and Engineering Manager (December 2019 to Present)
 
 * Research for applying deep learning technologies in the field of automated
   theorem proving (ATP).
