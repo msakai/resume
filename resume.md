@@ -58,8 +58,8 @@ shops/goods on smart-phone for regional promotion.
   up continuous integration environment, and writing heuristic
   algorithm and minor modules of the system. My work is partly
   applied to the system for TEPCO Fuel & Power, Incorporated.
-  (c.f. http://www3.toshiba.co.jp/power/whatsnew/topics/20161026/index_j.htm
-  http://www.toshiba.co.jp/tech/review/2016/03/71_03pdf/0A.pdf#page=6
+  (c.f. https://www.global.toshiba/jp/news/energy/2016/10/news-20161026-01.html
+  https://www.global.toshiba/content/dam/toshiba/migration/corp/techReviewAssets/tech/review/2016/03/71_03pdf/0A.pdf#page=6
   (written in Japanese))
 
 * Recommendation system for Kawasaki Grand City Mall project
@@ -67,7 +67,7 @@ shops/goods on smart-phone for regional promotion.
 
   Toshiba carried a demonstration experiment on smart city
   and O2O service around Kawasaki Station (c.f.
-  http://www.toshiba.co.jp/about/press/2013_12/pr_j1901.htm
+  https://www.global.toshiba/jp/news/corporate/2013/12/pr1901.html
   http://www.city.kawasaki.jp/200/page/0000053904.html
   (written in Japanese)). As part of this experiment, we
   have developed a recommendation system that recommends
