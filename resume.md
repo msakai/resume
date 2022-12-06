@@ -134,6 +134,8 @@ Qualifications
 --------------
 
 * Coursera
+  * Google Cloud Fundamentals: Core Infrastructure (Dec. 2022)
+    by Google Cloud Training
   * Oil & Gas Industry Operations and Markets (Apr. 2020)
     by Prof. Lincoln Pratson, Duke University
   * Process Mining: Data science in Action (May. 2015)
