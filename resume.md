@@ -134,6 +134,8 @@ Qualifications
 --------------
 
 * Coursera
+  * App Deployment, Debugging, and Performance (Dec. 2022)
+    by Google Cloud Training
   * Google Cloud Fundamentals: Core Infrastructure (Dec. 2022)
     by Google Cloud Training
   * Oil & Gas Industry Operations and Markets (Apr. 2020)
