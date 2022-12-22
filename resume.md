@@ -134,6 +134,8 @@ Qualifications
 --------------
 
 * Coursera
+  * Getting Started with Google Kubernetes Engine (Dec. 2022)
+    by Google Cloud Training
   * App Deployment, Debugging, and Performance (Dec. 2022)
     by Google Cloud Training
   * Google Cloud Fundamentals: Core Infrastructure (Dec. 2022)
