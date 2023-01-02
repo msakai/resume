@@ -134,6 +134,8 @@ Qualifications
 --------------
 
 * Coursera
+  * Getting Started With Application Development (Jan. 2023)
+    by Google Cloud Training
   * Getting Started with Google Kubernetes Engine (Dec. 2022)
     by Google Cloud Training
   * App Deployment, Debugging, and Performance (Dec. 2022)
