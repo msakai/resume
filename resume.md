@@ -134,6 +134,8 @@ Qualifications
 --------------
 
 * Coursera
+  * Securing and Integrating Components of your Application (Jan. 2023)
+    by Google Cloud Training
   * Getting Started With Application Development (Jan. 2023)
     by Google Cloud Training
   * Getting Started with Google Kubernetes Engine (Dec. 2022)
