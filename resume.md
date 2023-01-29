@@ -134,6 +134,8 @@ Qualifications
 --------------
 
 * Coursera
+  * Application Development with Cloud Run (Jan. 2023)
+    by Google Cloud Training
   * Securing and Integrating Components of your Application (Jan. 2023)
     by Google Cloud Training
   * Getting Started With Application Development (Jan. 2023)
