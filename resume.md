@@ -27,7 +27,7 @@ Professional Experience
 
 ### [Preferred Networks](https://www.preferred-networks.jp)
 
-Engineer (May 2017 to Present), Engineering Manager (December 2019 to May 2022), and Tech Lead (June 2022 to Present)
+Engineer (May 2017 to Present), Engineering Manager (December 2019 to May 2022), and Tech Lead (June 2022 to February 2023)
 
 * Research for applying deep learning technologies in the field of automated
   theorem proving (ATP).
