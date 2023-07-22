@@ -128,7 +128,8 @@ Skills
   * Haskell, Ruby, Python, Java, C.
 * Languages:
   * Japanese: Native Speaker
-  * English:  Professional Proficiency
+  * English: Professional Proficiency
+  * German: Beginner (Anfängerstufe)
 
 Qualifications
 --------------
