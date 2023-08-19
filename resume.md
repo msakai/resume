@@ -1,20 +1,20 @@
 MASAHIRO SAKAI (酒井 政裕) ― Research and Development Engineer
 ==============================================================
 
-* Email : masahiro.sakai@gmail.com
-* Web : http://msakai.jp
-* LinkedIn : https://www.linkedin.com/in/masahirosakai
-* GitHub : https://github.com/msakai
+* Email: masahiro.sakai@gmail.com
+* Web: http://msakai.jp
+* LinkedIn: https://www.linkedin.com/in/masahirosakai
+* GitHub: https://github.com/msakai
 
 Masahiro Sakai is a researcher in the field of theoretical computer
 science. He is working as a software engineer at Preferred Networks, Inc.
-He received a master degree
+He received a master's degree
 in “Media and Governance” with “Cyber Informatics” concentration at
 Keio university. He translated “Software Abstractions” and “Types and
 Programming Languages” into Japanese with his colleagues.
 
 He is passionate in learning new technologies / skills / knowledge
-and putting them in practice by writing code, and he strives hard
+and putting them into practice by writing code, and he strives hard
 toward perfection.
 
 His interest includes Programming Language Theory, Functional
@@ -51,7 +51,7 @@ shops/goods on smart-phone for regional promotion.
 
   Economic load dispatch is the determination of the output
   of electricity generation units that meet the electricity
-  demands with lowest possible cost, subject to complex
+  demands with the lowest possible cost, subject to complex
   operational constraints. I assisted research project of
   economic load dispatch problem by removing performance
   bottlenecks of our prototype optimization system, setting
@@ -72,7 +72,7 @@ shops/goods on smart-phone for regional promotion.
   (written in Japanese)). As part of this experiment, we
   have developed a recommendation system that recommends
   brick-and-mortar shops/goods on smart-phone for regional
-  promotion. I leaded a team for data analysis and
+  promotion. I led a team for data analysis and
   recommendation algorithm development.
 
 * SMT-based semi-automatic test-case generation for power
@@ -98,9 +98,9 @@ shops/goods on smart-phone for regional promotion.
 
 * Specification mining based on UNSAT core enumeration (2008-):
 
-  Specification mining tackles the software maintenance and
+  Specification mining tackles software maintenance and
   reliability issues by mining latent specification from
-  source code. We have developed novel technology to mine pre-condition
+  source code. We have developed a novel technology to mine pre-condition
   (one type of specification) by combining model checking and minimal
   unsatisfiable core enumeration.
 
@@ -114,7 +114,7 @@ shops/goods on smart-phone for regional promotion.
   design of our formal specification language for C, implementation
   of a kind of C compiler, and so on.
 
-* Verification of work-flow networks based on model checking (2007).
+* Verification of workflow networks based on model checking (2007).
 
 Skills
 ------
@@ -283,7 +283,7 @@ Professional Services
     (Japanese translation of “Programming in Haskell”), Ohmsha, 2009.
     ISBN: 978-4274067815
 
-  * Jeremy Gibbons, Oege de Moor and Nobuo Yamashita,
+  * Jeremy Gibbons, Oege de Moor, and Nobuo Yamashita,
     “関数プログラミングの楽しみ”(Japanese translation of “the fun
     of programming”), Ohmsha, 2010. ISBN: 978-4274068058
 
@@ -321,7 +321,7 @@ Open Source Activities
   Max-SAT, PBS (Pseudo Boolean Satisfaction), PBO (Pseudo Boolean
   Optimization), MILP (Mixed Integer Linear Programming) and
   non-linear real arithmetic.
-  In particular It contains a moderately-fast pure-Haskell
+  In particular, it contains a moderately-fast pure-Haskell
   SAT solver 'toysat'. I submitted it to solver competitions
   (Pseudo Boolean Competition and Max-SAT Evaluations) and
   ranked high in some competition categories.
@@ -333,10 +333,10 @@ Open Source Activities
 
   Ruby-GNOME2 is a set of Ruby language bindings for the
   GNOME >=2.0 development environment. I was one of core
-  developers in the early days. In particular I have
+  developers in the early days. In particular, I have
   designed/wrote a general bridge between Ruby's object system
   and GObject object system using reflection/introspection
-  features and replaced non-extensible hard-coded one in
+  features and replaced non-extensible hard-coded ones in
   its predecessor Ruby/GTK1.
   
   * http://ruby-gnome2.osdn.jp/
@@ -348,8 +348,8 @@ Open Source Activities
   were pioneering work in the field of formal semantics
   of natural languages, and showed that natural languages
   (like English) and formal languages (like programming
-  languages) can be treated in the similar way. I
-  implemented his theory in interactive environment.
+  languages) can be treated in a similar way. I
+  implemented his theory in an interactive environment.
   
   * http://hackage.haskell.org/package/PTQ
   * https://github.com/msakai/ptq
@@ -361,7 +361,7 @@ Open Source Activities
   Hagino. In CPL, data types are declared in a categorical
   manner by adjunctions. Each data type is declared with its
   basic operations or morphisms. Programs consist of these
-  morphisms, and execution of programs is the reduction of
+  morphisms, and the execution of programs is the reduction of
   elements (i.e. special morphisms) to their canonical form.
   
   * http://hackage.haskell.org/package/CPL
@@ -388,8 +388,8 @@ Other Activities
   Category theory is a highly general and abstract mathematical
   theory, which has applications not only in mathematics but also
   in theoretical computer science, functional programming,
-  physics, linguistics and many other fields. I was one of core
-  members of the study group and we had studied following
+  physics, linguistics, and many other fields. I was one of core
+  members of the study group and we studied following
   materials:
 
   * “Conceptual Mathematics: A First Introduction to Categories”
@@ -415,10 +415,10 @@ Other Activities
 * RHG reading group (RHG読書会): 2003 - 2009
 
   This study group was a group of programming language geeks.
-  It was started initially as a study group of reading
+  It was started initially as a study group for reading
   “Rubyソースコード完全解説” (known as “Ruby Hacking Guide”),
-  but eventually we have studied many programming and
-  programming language related books/materials:
+  but eventually, we studied many programming and
+  programming-language related books/materials:
 
   * YARV (Ruby >=1.9 VM),
   * なでしこ (a Japanese programming language),
