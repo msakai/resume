@@ -129,7 +129,7 @@ Skills
 * Languages:
   * Japanese: Native Speaker
   * English: Professional Proficiency
-  * German: Beginner (Anfängerstufe)
+  * German: Basic level (CEFR A2)
 
 Qualifications
 --------------
