@@ -25,14 +25,68 @@ and Computer Security.
 Professional Experience
 -----------------------
 
-### [Preferred Networks](https://www.preferred-networks.jp)
+### [Preferred Networks, Inc.](https://www.preferred-networks.jp)
 
-Engineer (May 2017 to Present), Engineering Manager (December 2019 to May 2022), Tech Lead (June 2022 to February 2023), and Scrum Master (May 2023 to Present)
+Engineer (May 2017 to Present), Engineering Manager (December 2019 to
+May 2022), Tech Lead (June 2022 to February 2023), and Scrum Master
+(May 2023 to Present):
+
+I worked as a software engineer applying cutting-edge deep learning
+techniques to solve highly challenging real-world problems.
+
+* Automated operation of petrochemical plants (2019-):
+
+  Petroleum refineries and petrochemical plants are large and complex,
+  and their control requires operational know-how based on many years
+  of experience. We first achieved the automated operation of a butadiene
+  extraction plant and later the automated operation of a crude
+  distillation unit, which is more difficult and has a greater economic
+  impact. Our system is used in ENEOS's Kawasaki Refinery 24/7.
+  https://www.preferred.jp/ja/news/pr20211202/
+  https://www.preferred.jp/ja/news/pr20230731/
+  https://www.preferred.jp/ja/news/pr20240524/
+
+  I made many important contributions early in the project,
+  which are still in use as prototypes: an overall control scheme,
+  inductive bias for integrating domain knowledge into neural network
+  models, and communication with DCS (Distributed Control System).  I
+  was involved in many other parts of the project, including
+simulator-related R&D and system development (front and backend).
+  I also supported the project as an engineering manager and a scrum
+  master.
+
+* Several PoC projects for using machine learning in industrial domains
+  (2017-2019):
+  
+  I worked on multiple anomaly detection projects in the factory
+  (e.g. anomaly detection of cutting tools). I adapted already
+  developed algorithms (neural network models) to the customer's
+  environment and solved problems including specialized data
+  preprocessing and data augmentation, fixing memory leak issues in
+  deployed environments, etc.  Our technology is incorporated in
+  FANUC's products as “AI Servo Monitor” (AIサーボモニタ).
+  https://www.fanucamerica.com/products/cnc/cnc-software/machine-tool-data-collection-software/ai-servo-monitor
+
+* [Menoh](https://github.com/pfnet-research/menoh) DNN inference
+  library (2018-2019):
+
+  Menoh is a DNN inference library that loads trained DNN models from
+  the ONNX format and runs inference at high speed on an Intel CPU using
+  MKL-DNN (oneDNN). The main developer is Shintarou Okada -san and I
+  contributed with code reviews, CI, windows/macOS support, Haskell
+  binding, etc. I also proposed the name “Menoh” (瑪瑙).
+  https://tech.preferred.jp/ja/blog/menoh-release/
 
 * Research for applying deep learning technologies in the field of automated
-  theorem proving (ATP).
-* Several PoC projects for using machine learning in industrial domains
-* [Menoh](https://github.com/pfnet-research/menoh) DNN inference library. 
+  theorem proving (ATP) (2017-2019):
+
+  We tried to apply deep neural networks to theorem-proving related problems
+  including premise selection in automated theorem proving of first-order logic,
+  inference rule selection in intuitionistic propositional logic, NN-based
+  heuristics in SAT solver, etc.
+  https://www.slideshare.net/slideshow/proof-summit-2017-for-slideshare/78254931
+  https://github.com/pfnet-research/chainer-formulanet
+  https://arxiv.org/abs/1811.00796
 
 ### [Toshiba Corporation](http://www.toshiba.co.jp/worldwide/index.html)
 
