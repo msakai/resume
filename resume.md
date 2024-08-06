@@ -92,14 +92,14 @@ simulator-related R&D and system development (front and backend).
 
 Engineer (Apr 2007 to June 2015) and Research Scientist (July 2015 to April 2017):
 
-I worked as a researcher for System Engineering Laboratory,
+I worked as a researcher for the System Engineering Laboratory,
 Toshiba Research and Development Center. I have worked in
 software dependability team to develop technology based on
 formal methods, program analysis, and automatic test-case
 generation to achieve more dependable systems. I have also
 worked in cities infrastructure solutions team and developed
 a recommendation system that recommends brick-and-mortar
-shops/goods on smart-phone for regional promotion.
+shops/goods on smartphones for regional promotion.
 
 * Economic load dispatch (2015-2016):
 
@@ -116,16 +116,16 @@ shops/goods on smart-phone for regional promotion.
   https://www.global.toshiba/content/dam/toshiba/migration/corp/techReviewAssets/tech/review/2016/03/71_03pdf/0A.pdf#page=6
   (written in Japanese))
 
-* Recommendation system for Kawasaki Grand City Mall project
+* Recommendation system for the Kawasaki Grand City Mall project
   (2013-2015):
 
-  Toshiba carried a demonstration experiment on smart city
+  Toshiba carried out a demonstration experiment on smart city
   and O2O service around Kawasaki Station (c.f.
   https://www.global.toshiba/jp/news/corporate/2013/12/pr1901.html
   http://www.city.kawasaki.jp/200/page/0000053904.html
   (written in Japanese)). As part of this experiment, we
   have developed a recommendation system that recommends
-  brick-and-mortar shops/goods on smart-phone for regional
+  brick-and-mortar shops/goods on smartphones for regional
   promotion. I led a team for data analysis and
   recommendation algorithm development.
 
@@ -138,7 +138,7 @@ shops/goods on smart-phone for regional promotion.
   developed technology to automatically generate test cases
   that satisfy the proposed criteria. I developed core
   algorithms of our approach that encodes both FBD programs
-  and conditions for proposed criteria into logical formula and
+  and conditions for proposed criteria into logical formulas and
   solves the conjoined formula using SMT solvers to generate
   test cases.
 
@@ -153,7 +153,7 @@ shops/goods on smart-phone for regional promotion.
 * Specification mining based on UNSAT core enumeration (2008-):
 
   Specification mining tackles software maintenance and
-  reliability issues by mining latent specification from
+  reliability issues by mining latent specifications from
   source code. We have developed a novel technology to mine pre-condition
   (one type of specification) by combining model checking and minimal
   unsatisfiable core enumeration.
