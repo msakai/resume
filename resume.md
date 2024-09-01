@@ -239,11 +239,11 @@ Qualifications
 * Google Cloud Certified Professional Cloud Developer (Feb. 2023)
   by Google Cloud
 
-Education  
+Education
 ---------
 
 * March 2007: Master of Media and Governance (Course: Cyber Informatics),
-  Graduate School of Media and Governance, Keio University.  
+  Graduate School of Media and Governance, Keio University.
   * Master thesis: "Fusion Transformations Applicable to Non-Strict Functions"
     ("非正格関数に対して適用可能な融合変換").
     Adviser: Prof. Tatsuya Hagino.
