@@ -47,11 +47,11 @@ techniques to solve highly challenging real-world problems.
   https://www.preferred.jp/ja/news/pr20240524/
 
   I made many important contributions early in the project,
-  which are still in use as prototypes: an overall control scheme,
+  which are still in use: an overall control scheme,
   inductive bias for integrating domain knowledge into neural network
   models, and communication with DCS (Distributed Control System).  I
   was involved in many other parts of the project, including
-simulator-related R&D and system development (front and backend).
+  simulator-related R&D and system development (front and backend).
   I also supported the project as an engineering manager and a scrum
   master.
 
