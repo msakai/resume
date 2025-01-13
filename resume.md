@@ -231,7 +231,7 @@ Qualifications
 
 * TOEIC Score 960 (Listening: 490; Reading: 470) (Mar. 2018)
 
-* ドイツ語技能検定試験 3級 (German Diploma in Japan, Basic level) (Feb. 2024)
+* ドイツ語技能検定試験 2級 (German Diploma in Japan, Intermediate level) (Feb. 2025)
 
 * C言語ベースの組込みハードウェア設計 (A course on C-based design of
   embedded hardware) (Oct. 2007)
