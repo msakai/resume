@@ -28,13 +28,13 @@ Professional Experience
 ### [Preferred Networks, Inc.](https://www.preferred-networks.jp)
 
 Engineer (May 2017 to Present), Engineering Manager (December 2019 to
-May 2022), Tech Lead (June 2022 to February 2023), and Scrum Master
-(May 2023 to Present):
+May 2022), Tech Lead (June 2022 to February 2023 and Nov 2024 to Present),
+and Scrum Master (May 2023 to Sep 2024):
 
 I worked as a software engineer applying cutting-edge deep learning
 techniques to solve highly challenging real-world problems.
 
-* Automated operation of petrochemical plants (2019-):
+* Automated operation of petrochemical plants (2019-2024):
 
   Petroleum refineries and petrochemical plants are large and complex,
   and their control requires operational know-how based on many years
@@ -50,8 +50,8 @@ techniques to solve highly challenging real-world problems.
   which are still in use: an overall control scheme,
   inductive bias for integrating domain knowledge into neural network
   models, and communication with DCS (Distributed Control System).  I
-  was involved in many other parts of the project, including
-  simulator-related R&D and system development (front and backend).
+  I am also involved in many other parts of the project, including
+  simulator-related R&D and system development (front- and backend).
   I also supported the project as an engineering manager and a scrum
   master.
 
@@ -61,7 +61,7 @@ techniques to solve highly challenging real-world problems.
   I worked on multiple anomaly detection projects in the factory
   (e.g. anomaly detection of cutting tools). I adapted already
   developed algorithms (neural network models) to the customer's
-  environment and solved problems including specialized data
+  environment and solved problems, including specialized data
   preprocessing and data augmentation, fixing memory leak issues in
   deployed environments, etc.  Our technology is incorporated in
   FANUC's products as “AI Servo Monitor” (AIサーボモニタ).
@@ -72,8 +72,8 @@ techniques to solve highly challenging real-world problems.
 
   Menoh is a DNN inference library that loads trained DNN models from
   the ONNX format and runs inference at high speed on an Intel CPU using
-  MKL-DNN (oneDNN). The main developer is Shintarou Okada -san and I
-  contributed with code reviews, CI, windows/macOS support, Haskell
+  MKL-DNN (oneDNN). The main developer is Shintarou Okada and I
+  contributed with code reviews, CI, Windows/macOS support, Haskell
   binding, etc. I also proposed the name “Menoh” (瑪瑙).
   https://tech.preferred.jp/ja/blog/menoh-release/
 
@@ -327,7 +327,7 @@ Professional Services
 
 * [日本ソフトウェア科学会 機械学習工学研究会（MLSE）](https://sites.google.com/view/sig-mlse/) 発起人
 
-* [情報処理学会 学会誌「情報処理」](https://www.ipsj.or.jp/magazine/magazine.html) 編集委員 (2021 to present)
+* [情報処理学会 学会誌「情報処理」](https://www.ipsj.or.jp/magazine/magazine.html) 編集委員 (2021 to 2025)
 
 * [第21回プログラミングおよびプログラミング言語ワークショップ (PPL 2019)](https://jssst-ppl.org/workshop/2019/) プログラム委員
 
@@ -369,6 +369,10 @@ Professional Services
   * Tomoshi Otsuki and Youichiro Miyake, “最強囲碁AI アルファ碁 解体新書 増補改訂版 
     アルファ碁ゼロ対応 深層学習、モンテカルロ木探索、強化学習から見たその仕組み” (A commentary
     on AlphaGo and AlphaGo Zero), Shoeisha, 2018. ISBN: 9784798157771
+
+  * Yusuke Endoh, “型システムのしくみ ― TypeScriptで実装しながら学ぶ型とプログラミング言語”
+    (a book that explains the principles of type systems by implementing
+    a type checker for a subset of TypeScript), Lambda Note, 2025. ISBN: 978-4-908686-20-7
 
 Open Source Activities
 ----------------------
@@ -473,7 +477,7 @@ Other Activities
 * RHG reading group (RHG読書会): 2003 - 2009
 
   This study group was a group of programming language geeks.
-  It was started initially as a study group for reading
+  It was initially started as a study group for reading
   “Rubyソースコード完全解説” (known as “Ruby Hacking Guide”),
   but eventually, we studied many programming and
   programming-language related books/materials:
