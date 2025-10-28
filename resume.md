@@ -238,7 +238,7 @@ Qualifications
   by NEXCESS (Nagoya University Extension Courses for Embedded
   Software Specialists).
 
-* Google Cloud Certified Professional Cloud Developer (Feb. 2023)
+* Google Cloud Certified Professional Cloud Developer (issued Feb 2023, expired Feb 2025)
   by Google Cloud
 
 Education
