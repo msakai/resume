@@ -82,7 +82,7 @@ techniques to solve highly challenging real-world problems.
 
   We tried to apply deep neural networks to theorem-proving related problems
   including premise selection in automated theorem proving of first-order logic,
-  inference rule selection in intuitionistic propositional logic, NN-based
+  inference rule selection in intuitionistic propositional logic, and NN-based
   heuristics in SAT solver, etc.
   https://www.slideshare.net/slideshow/proof-summit-2017-for-slideshare/78254931
   https://github.com/pfnet-research/chainer-formulanet
@@ -246,7 +246,7 @@ Education
 
 * March 2007: Master of Media and Governance (Course: Cyber Informatics),
   Graduate School of Media and Governance, Keio University.
-  * Master thesis: "Fusion Transformations Applicable to Non-Strict Functions"
+  * Master's thesis: "Fusion Transformations Applicable to Non-Strict Functions"
     ("非正格関数に対して適用可能な融合変換").
     Adviser: Prof. Tatsuya Hagino.
 
