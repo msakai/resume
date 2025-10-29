@@ -485,11 +485,11 @@ Other Activities
   * YARV (Ruby >=1.9 VM),
   * なでしこ (a Japanese programming language),
   * MinCaml,
-  * “ふつうのLinuxプログラミング--Linuxの仕組みから学べるgccプログラミングの王道”,
-  * “ふつうのHaskellプログラミング--ふつうのプログラマのための関数型言語入門”,
-  * “入門JavaScript”,
+  * “ふつうのLinuxプログラミング--Linuxの仕組みから学べるgccプログラミングの王道” (A hands-on guide to Linux system programming, covering topics from “Hello, World” to building an HTTP server in C),
+  * “ふつうのHaskellプログラミング--ふつうのプログラマのための関数型言語入門” (An introductory guide to Haskell for procedural programmers, designed to help them master the 'ordinary' functional programming paradigm),
+  * “入門JavaScript” (An introductory guild of JavaScript, covering not only in-page scripting, but also language specifications and prototype-based object-oriented programming),
   * “実践Common Lisp” (Japanese translation of “Practical Common Lisp”),
-  * “ふつうのコンパイラをつくろう--言語処理系をつくりながら学ぶコンパイルと実行環境の仕組み”.
+  * “ふつうのコンパイラをつくろう--言語処理系をつくりながら学ぶコンパイルと実行環境の仕組み” (A book for learning compilers and runtime environments by implementing a compiler for a simple language).
 
 * Teaching Assistant
   * 2014-2015: Toshiba Systems & Software Institute
