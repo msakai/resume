@@ -174,10 +174,9 @@ Skills
 ------
 
 * Engineering Knowledge and Interests:
-  * Functional Programming, Language Design, Formal Methods, Model
-    Checking, SAT/SMT solvers, Machine Learning, Recommendation
-    System, Mathematical Optimization, Category Theory, Type Theory,
-    Logic.
+  * Functional Programming, Formal Methods, Model Checking, SAT/SMT solvers,
+    Machine Learning, Mathematical Optimization, Category Theory, Type Theory,
+    Mathematical Logic.
 * Programming Languages:
   * Haskell, Ruby, Python, Java, C.
 * Languages:
