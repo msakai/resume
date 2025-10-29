@@ -398,7 +398,7 @@ Professional Services
 Open Source Activities
 ----------------------
 
-* toysolver / toysat
+* toysolver / toysat [[hackage]](https://hackage.haskell.org/package/toysolver), [[github]](https://github.com/msakai/toysolver)
 
   Solver implementation of various problems including SAT,
   Max-SAT, PBS (Pseudo Boolean Satisfaction), PBO (Pseudo Boolean
@@ -408,11 +408,8 @@ Open Source Activities
   SAT solver 'toysat'. I submitted it to solver competitions
   (Pseudo Boolean Competition and Max-SAT Evaluations) and
   ranked high in some competition categories.
-  
-  * http://hackage.haskell.org/package/toysolver
-  * https://github.com/msakai/toysolver
 
-* Ruby-GNOME2
+* Ruby-GNOME2 [[github]](https://github.com/ruby-gnome/ruby-gnome)
 
   Ruby-GNOME2 is a set of Ruby language bindings for the
   GNOME >=2.0 development environment. I was one of core
@@ -421,10 +418,8 @@ Open Source Activities
   and GObject object system using reflection/introspection
   features and replaced non-extensible hard-coded ones in
   its predecessor Ruby/GTK1.
-  
-  * http://ruby-gnome2.osdn.jp/
 
-* PTQ : An implementation of Montague's PTQ in Haskell
+* PTQ : An implementation of Montague's PTQ in Haskell [[hackage]](https://hackage.haskell.org/package/PTQ) [[github]](https://github.com/msakai/ptq)
 
   Montague grammar and the PTQ (The Proper Treatment of
   Quantification in Ordinary English) by Richard Montague
@@ -433,11 +428,8 @@ Open Source Activities
   (like English) and formal languages (like programming
   languages) can be treated in a similar way. I
   implemented his theory in an interactive environment.
-  
-  * http://hackage.haskell.org/package/PTQ
-  * https://github.com/msakai/ptq
 
-* CPL : A categorical programming language interpreter
+* CPL : A categorical programming language interpreter [[hackage]](https://hackage.haskell.org/package/CPL) [[github]](https://github.com/msakai/cpl)
 
   I implemented an interpreter of CPL, a functional programming
   language based on category theory, designed by Prof. Tatsuya
@@ -446,9 +438,6 @@ Open Source Activities
   basic operations or morphisms. Programs consist of these
   morphisms, and the execution of programs is the reduction of
   elements (i.e. special morphisms) to their canonical form.
-  
-  * http://hackage.haskell.org/package/CPL
-  * https://github.com/msakai/cpl
 
 Other Activities
 ----------------
