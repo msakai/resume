@@ -307,7 +307,7 @@ Books and Selected Publications
 * Masahiro Sakai,
   "Fusion Transformations Applicable to Non-Strict Functions,"
   ("非正格関数に対して適用可能な融合変換,")
-  Master thesis, Graduate School of Media and Governance, Keio University,
+  Master's thesis, Graduate School of Media and Governance, Keio University,
   Jan. 2007.
 
 Recognition and Awards
