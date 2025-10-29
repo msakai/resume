@@ -19,8 +19,7 @@ toward perfection.
 
 His interest includes Programming Language Theory, Functional
 Programming, Software Engineering, Category Theory, Constraint
-Solving, SAT/SMT Solvers, Machine Learning, Mathematical Optimization,
-and Computer Security.
+Solving, SAT/SMT Solvers, Machine Learning, and Mathematical Optimization.
 
 Professional Experience
 -----------------------
