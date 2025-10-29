@@ -34,6 +34,23 @@ and Scrum Master (May 2023 to Sep 2024):
 I worked as a software engineer applying cutting-edge deep learning
 techniques to solve highly challenging real-world problems.
 
+* Application of black-box optimization to manufacturing processes for heavy industries (Oct 2024 - Present)
+
+  Multiple projects performing black-box optimization by combining Preferred Networks' black-box optimization software Optuna with simulators for target processes.
+  I led the projects, delivered key results, and achieved outcomes that exceeded customer expectations.
+
+* R&D Project for developing LLM agents for a certain task (Oct 2024 - Present)
+
+  As part of a team comprising researchers and engineers, I contributed by leveraging my software engineering skills and knowledge of mathematical optimization while also catching up on LLM technology.
+
+* Data processing of the latest weather radar data (June 2024 - Sep 2024):
+
+  Preferred Networks is developing technology to compress and distribute four-dimensional observation data acquired by the latest weather radar, the Multi-Parameter Phased Array Weather Radar (MP-PAWR). I temporarily assisted the team on the project and developed a workflow (involving modification and integration of existing C programs) to process their past observational data. 
+
+* Optimization Problems in the Logistics Field (2021-2022):
+
+  I led the project, and our team proposed methods utilizing reinforcement learning and SMT solvers.
+
 * Automated operation of petrochemical plants (2019-2024):
 
   Petroleum refineries and petrochemical plants are large and complex,
@@ -55,8 +72,7 @@ techniques to solve highly challenging real-world problems.
   I also supported the project as an engineering manager and a scrum
   master.
 
-* Several PoC projects for using machine learning in industrial domains
-  (2017-2019):
+* Several PoC projects for applying anomaly detection in factories and manufacturing sites (2017-2019):
   
   I worked on multiple anomaly detection projects in the factory
   (e.g. anomaly detection of cutting tools). I adapted already
