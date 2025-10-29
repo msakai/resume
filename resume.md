@@ -55,13 +55,9 @@ techniques to solve highly challenging real-world problems.
 
   Petroleum refineries and petrochemical plants are large and complex,
   and their control requires operational know-how based on many years
-  of experience. We first achieved the automated operation of a butadiene
-  extraction plant and later the automated operation of a crude
-  distillation unit, which is more difficult and has a greater economic
+  of experience. We first achieved the [automated operation of a butadiene extraction plant](https://www.preferred.jp/en/news/pr20211202/)
+  and later the [automated operation of a crude distillation unit](https://www.preferred.jp/en/news/pr20240524/), which is more difficult and has a greater economic
   impact. Our system is used in ENEOS's Kawasaki Refinery 24/7.
-  https://www.preferred.jp/ja/news/pr20211202/
-  https://www.preferred.jp/ja/news/pr20230731/
-  https://www.preferred.jp/ja/news/pr20240524/
 
   I made many important contributions early in the project,
   which are still in use: an overall control scheme,
@@ -80,8 +76,7 @@ techniques to solve highly challenging real-world problems.
   environment and solved problems, including specialized data
   preprocessing and data augmentation, fixing memory leak issues in
   deployed environments, etc.  Our technology is incorporated in
-  FANUC's products as “AI Servo Monitor” (AIサーボモニタ).
-  https://www.fanucamerica.com/products/cnc/cnc-software/machine-tool-data-collection-software/ai-servo-monitor
+  FANUC's products as [“AI Servo Monitor” (AIサーボモニタ)](https://www.fanucamerica.com/products/cnc/cnc-software/machine-tool-data-collection-software/ai-servo-monitor).
 
 * [Menoh](https://github.com/pfnet-research/menoh) DNN inference
   library (2018-2019):
@@ -91,18 +86,16 @@ techniques to solve highly challenging real-world problems.
   MKL-DNN (oneDNN). The main developer is Shintarou Okada and I
   contributed with code reviews, CI, Windows/macOS support, Haskell
   binding, etc. I also proposed the name “Menoh” (瑪瑙).
-  https://tech.preferred.jp/ja/blog/menoh-release/
+  [[Blog post about the release (in Japanese)]](https://tech.preferred.jp/ja/blog/menoh-release/)
 
 * Research for applying deep learning technologies in the field of automated
   theorem proving (ATP) (2017-2019):
 
   We tried to apply deep neural networks to theorem-proving related problems
-  including premise selection in automated theorem proving of first-order logic,
-  inference rule selection in intuitionistic propositional logic, and NN-based
+  including [premise selection in automated theorem proving of first-order logic](https://github.com/pfnet-research/chainer-formulanet),
+  [inference rule selection in intuitionistic propositional logic](https://arxiv.org/abs/1811.00796), and NN-based
   heuristics in SAT solver, etc.
-  https://www.slideshare.net/slideshow/proof-summit-2017-for-slideshare/78254931
-  https://github.com/pfnet-research/chainer-formulanet
-  https://arxiv.org/abs/1811.00796
+  [[Slides at ProofSummit 2017 (in Japanese)]](https://www.slideshare.net/slideshow/proof-summit-2017-for-slideshare/78254931)
 
 ### [Toshiba Corporation](http://www.toshiba.co.jp/worldwide/index.html)
 
@@ -128,18 +121,15 @@ shops/goods on smartphones for regional promotion.
   up continuous integration environment, and writing heuristic
   algorithm and minor modules of the system. My work is partly
   applied to the system for TEPCO Fuel & Power, Incorporated.
-  (c.f. https://www.global.toshiba/jp/news/energy/2016/10/news-20161026-01.html
-  https://www.global.toshiba/content/dam/toshiba/migration/corp/techReviewAssets/tech/review/2016/03/71_03pdf/0A.pdf#page=6
-  (written in Japanese))
+  [[News Release Regarding Presentation at Thermal and Nuclear Power Generation Conference (in Japanese)]](https://www.global.toshiba/jp/news/energy/2016/10/news-20161026-01.html)
+  [[Toshiba Review article (in Japanese)]](https://www.global.toshiba/content/dam/toshiba/migration/corp/techReviewAssets/tech/review/2016/03/71_03pdf/0A.pdf#page=6)
 
 * Recommendation system for the Kawasaki Grand City Mall project
   (2013-2015):
 
   Toshiba carried out a demonstration experiment on smart city
-  and O2O service around Kawasaki Station (c.f.
-  https://www.global.toshiba/jp/news/corporate/2013/12/pr1901.html
-  http://www.city.kawasaki.jp/200/page/0000053904.html
-  (written in Japanese)). As part of this experiment, we
+  and O2O service around Kawasaki Station ([Press Release Announcing the Start of the Proof-of-Concept](https://warp.ndl.go.jp/info:ndljp/pid/8406771/www.city.kawasaki.jp/200/page/0000053904.html)).
+  As part of this experiment, we
   have developed a recommendation system that recommends
   brick-and-mortar shops/goods on smartphones for regional
   promotion. I led a team for data analysis and
@@ -164,7 +154,7 @@ shops/goods on smartphones for regional promotion.
   programming model for “Cell Broadband Engine”-like
   heterogeneous multicore processors, which was shipped
   with Toshiba's flagship digital TV “CELL REGZA”.
-  (c.f. https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice )
+  [[HotPar'10 paper]](https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice)
 
 * Specification mining based on UNSAT core enumeration (2008-):
 
