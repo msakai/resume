@@ -325,11 +325,17 @@ Recognition and Awards
 Professional Services
 ---------------------
 
-* [日本ソフトウェア科学会 機械学習工学研究会（MLSE）](https://sites.google.com/view/sig-mlse/) 発起人
+* One of the founding members of the [Machine Learning Engineering Research Group (MLSE) of the Japan Society for Software Science and Technology](https://sites.google.com/view/sig-mlse/)
 
-* [情報処理学会 学会誌「情報処理」](https://www.ipsj.or.jp/magazine/magazine.html) 編集委員 (2021 to 2025)
+* Editorial Board Member of the [Information Processing Society of Japan's journal
+  "Information Processing"](https://www.ipsj.or.jp/magazine/magazine.html):  2021 to 2025
 
-* [第21回プログラミングおよびプログラミング言語ワークショップ (PPL 2019)](https://jssst-ppl.org/workshop/2019/) プログラム委員
+* Program Committee Member of the PPL (Programming and Programming Languages) Workshops:
+  [PPL 2019](https://jssst-ppl.org/workshop/2019/), [PPL 2026](https://jssst-ppl.org/workshop/2026/)
+
+* Program Committee Member of the xSIG (Cross-disciplinary Workshop on Computing Systems,
+  Infrastructures, and Programming) workshops: [xSIG 2020](https://xsig.ipsj.or.jp/2020/),
+  [xSIG 2021](https://xsig.ipsj.or.jp/2021/), [xSIG 2022](https://xsig.ipsj.or.jp/2022/),
 
 * External reviewer of IPSJ/SIGSE Software Engineering Symposiums
   (SES2014, SES2015).
