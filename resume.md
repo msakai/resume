@@ -26,23 +26,23 @@ Professional Experience
 
 ### [Preferred Networks, Inc.](https://www.preferred-networks.jp)
 
-Engineer (May 2017 to Present), Engineering Manager (December 2019 to
-May 2022), Tech Lead (June 2022 to February 2023 and Nov 2024 to Present),
-and Scrum Master (May 2023 to Sep 2024):
+Engineer (May 2017 to Present), Engineering Manager (Dec. 2019 to
+May 2022), Tech Lead (June 2022 to Feb. 2023 and Nov. 2024 to Present),
+and Scrum Master (May 2023 to Sep. 2024):
 
 I worked as a software engineer applying cutting-edge deep learning
 techniques to solve highly challenging real-world problems.
 
-* Application of black-box optimization to manufacturing processes for heavy industries (Oct 2024 - Present)
+* Application of black-box optimization to manufacturing processes for heavy industries (Oct. 2024 - Present)
 
   Multiple projects performing black-box optimization by combining Preferred Networks' black-box optimization software Optuna with simulators for target processes.
   I led the projects, delivered key results, and achieved outcomes that exceeded customer expectations.
 
-* R&D Project for developing LLM agents for a certain task (Oct 2024 - Present)
+* R&D Project for developing LLM agents for a certain task (Oct. 2024 - Present)
 
   As part of a team comprising researchers and engineers, I contributed by leveraging my software engineering skills and knowledge of mathematical optimization while also catching up on LLM technology.
 
-* Data processing of the latest weather radar data (June 2024 - Sep 2024):
+* Data processing of the latest weather radar data (June 2024 - Sep. 2024):
 
   Preferred Networks is developing technology to compress and distribute four-dimensional observation data acquired by the latest weather radar, the Multi-Parameter Phased Array Weather Radar (MP-PAWR). I temporarily assisted the team on the project and developed a workflow (involving modification and integration of existing C programs) to process their past observational data. 
 
@@ -98,7 +98,7 @@ techniques to solve highly challenging real-world problems.
 
 ### [Toshiba Corporation](http://www.toshiba.co.jp/worldwide/index.html)
 
-Engineer (Apr 2007 to June 2015) and Research Scientist (July 2015 to April 2017):
+Engineer (Apr. 2007 to June 2015) and Research Scientist (July 2015 to Apr. 2017):
 
 I worked as a researcher for the System Engineering Laboratory,
 Toshiba Research and Development Center. I have worked in
@@ -224,7 +224,7 @@ Qualifications
     by Dr. James V. Green, University of Maryland, College Park
   * Model Thinking (Aug. 2013)
     by Prof. Scott E. Page, University of Michigan
-  * Machine Learning (Jul. 2013)
+  * Machine Learning (July 2013)
     by Assoc. Prof. Andrew Ng, Stanford University
   * Linear and Discrete Optimization (Apr. 2013)
     by Prof. Friedrich Eisenbrand, École Polytechnique Fédérale de Lausanne
@@ -242,19 +242,19 @@ Qualifications
   by NEXCESS (Nagoya University Extension Courses for Embedded
   Software Specialists).
 
-* Google Cloud Certified Professional Cloud Developer (issued Feb 2023, expired Feb 2025)
+* Google Cloud Certified Professional Cloud Developer (issued Feb. 2023, expired Feb. 2025)
   by Google Cloud
 
 Education
 ---------
 
-* March 2007: Master of Media and Governance (Course: Cyber Informatics),
+* Mar. 2007: Master of Media and Governance (Course: Cyber Informatics),
   Graduate School of Media and Governance, Keio University.
   * Master's thesis: "Fusion Transformations Applicable to Non-Strict Functions"
     ("非正格関数に対して適用可能な融合変換").
     Adviser: Prof. Tatsuya Hagino.
 
-* March 2005: Bachelor of Arts in Policy Management,
+* Mar. 2005: Bachelor of Arts in Policy Management,
   Faculty of Policy Management, Keio University.
 
 Books and Selected Publications
