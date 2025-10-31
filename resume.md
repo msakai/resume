@@ -27,7 +27,7 @@ Professional Experience
 ### [Preferred Networks, Inc.](https://www.preferred-networks.jp)
 
 Engineer (May 2017 to Present), Engineering Manager (Dec. 2019 to
-May 2022), Tech Lead (June 2022 to Feb. 2023 and Nov. 2024 to Present),
+May 2022), Tech Lead (June 2022 to Feb. 2023 and Oct. 2024 to Present),
 and Scrum Master (May 2023 to Sep. 2024):
 
 I worked as a software engineer applying cutting-edge deep learning
@@ -120,14 +120,14 @@ shops/goods on smartphones for regional promotion.
   up continuous integration environment, and writing heuristic
   algorithm and minor modules of the system. My work is partly
   applied to the system for TEPCO Fuel & Power, Incorporated.
-  [[News Release Regarding Presentation at Thermal and Nuclear Power Generation Conference (in Japanese)]](https://www.global.toshiba/jp/news/energy/2016/10/news-20161026-01.html)
+  [[News release regarding presentation at thermal and nuclear power generation conference (in Japanese)]](https://www.global.toshiba/jp/news/energy/2016/10/news-20161026-01.html)
   [[Toshiba Review article (in Japanese)]](https://www.global.toshiba/content/dam/toshiba/migration/corp/techReviewAssets/tech/review/2016/03/71_03pdf/0A.pdf#page=6)
 
 * Recommendation system for the Kawasaki Grand City Mall project
   (2013-2015):
 
   Toshiba carried out a demonstration experiment on smart city
-  and O2O service around Kawasaki Station ([Press Release Announcing the Start of the Proof-of-Concept](https://warp.ndl.go.jp/info:ndljp/pid/8406771/www.city.kawasaki.jp/200/page/0000053904.html)).
+  and O2O service around Kawasaki Station ([Press release announcing the start of the proof-of-concept](https://warp.ndl.go.jp/info:ndljp/pid/8406771/www.city.kawasaki.jp/200/page/0000053904.html)).
   As part of this experiment, we
   have developed a recommendation system that recommends
   brick-and-mortar shops/goods on smartphones for regional
@@ -387,7 +387,7 @@ Professional Services
 Open Source Activities
 ----------------------
 
-* toysolver / toysat [[hackage]](https://hackage.haskell.org/package/toysolver), [[github]](https://github.com/msakai/toysolver)
+* toysolver / toysat [[hackage]](https://hackage.haskell.org/package/toysolver) [[github]](https://github.com/msakai/toysolver)
 
   Solver implementation of various problems including SAT,
   Max-SAT, PBS (Pseudo Boolean Satisfaction), PBO (Pseudo Boolean
