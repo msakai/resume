@@ -58,14 +58,14 @@ techniques to solve highly challenging real-world problems.
   and later the [automated operation of a crude distillation unit](https://www.preferred.jp/en/news/pr20240524/), which is more difficult and has a greater economic
   impact. Our system is used in ENEOS's Kawasaki Refinery 24/7.
 
-  I made many important contributions early in the project,
+  I made many important contributions in the early stages of the project,
   which are still in use: an overall control scheme,
   inductive bias for integrating domain knowledge into neural network
-  models, and communication with DCS (Distributed Control System).  I
-  I am also involved in many other parts of the project, including
+  models, and communication with DCS (Distributed Control System).
+  I was also involved in many other parts of the project, including
   simulator-related R&D and system development (front- and backend).
   I also supported the project as an engineering manager and a scrum
-  master.
+  master during certain periods.
 
 * Several PoC projects for applying anomaly detection in factories and manufacturing sites (2017-2019):
   
