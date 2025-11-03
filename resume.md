@@ -35,8 +35,8 @@ techniques to solve highly challenging real-world problems.
 
 * Application of black-box optimization to manufacturing processes for heavy industries (Oct. 2024 - Present)
 
-  Multiple projects performing black-box optimization by combining Preferred Networks' black-box optimization software Optuna with simulators for target processes.
-  I led the projects, delivered key results, and achieved outcomes that exceeded customer expectations.
+  I have worked on multiple projects optimizing customer's manufacturing processes by combining Preferred Networks' black-box optimization software Optuna with simulators of the target processes.
+  I led the projects, obtained experimental results that serve as the cornerstone for achieving the goal, and our team delivered results that met our customers' expectations.
 
 * R&D Project for developing LLM agents for a certain task (Oct. 2024 - Present)
 
@@ -46,9 +46,9 @@ techniques to solve highly challenging real-world problems.
 
   Preferred Networks is developing technology to compress and distribute four-dimensional observation data acquired by the latest weather radar, the Multi-Parameter Phased Array Weather Radar (MP-PAWR). I temporarily assisted the team on the project and developed a workflow (involving modification and integration of existing C programs) to process their past observational data. 
 
-* Optimization Problems in the Logistics Field (2021-2022):
+* Optimization project in the logistics field (2021-2022):
 
-  I led the project, and our team proposed methods utilizing reinforcement learning and SMT solvers.
+  I led a team of engineers, and within three months, our team caught up on an unfamiliar field and then proposed a solution combining reinforcement learning, SMT solvers, and physical simulation  to solve the customer's problem.
 
 * Automated operation of petrochemical plants (2019-2024):
 
