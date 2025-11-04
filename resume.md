@@ -6,20 +6,9 @@ MASAHIRO SAKAI (酒井 政裕) ― Research and Development Engineer
 * LinkedIn: https://www.linkedin.com/in/masahirosakai
 * GitHub: https://github.com/msakai
 
-Masahiro Sakai is a researcher in the field of theoretical computer
-science. He is working as a software engineer at Preferred Networks, Inc.
-He received a master's degree
-in “Media and Governance” with “Cyber Informatics” concentration at
-Keio university. He translated “Software Abstractions” and “Types and
-Programming Languages” into Japanese with his colleagues.
+Research and development engineer with a strong background in theoretical computer science, including programming language theory, over seven years of experience in R&D involving SAT/SMT solvers, and more than ten years of delivering solutions based on deep learning, machine learning, and mathematical optimization.
 
-He is passionate in learning new technologies / skills / knowledge
-and putting them into practice by writing code, and he strives hard
-toward perfection.
-
-His interest includes Programming Language Theory, Functional
-Programming, Software Engineering, Category Theory, Constraint
-Solving, SAT/SMT Solvers, Machine Learning, and Mathematical Optimization.
+Experienced in engineering management and agile development, having served as a Scrum Master to facilitate effective team collaboration. Co-translated *Software Abstractions* and *Types and Programming Languages* into Japanese, contributing to the accessibility of key works in formal methods and programming language theory for Japanese readers.
 
 Professional Experience
 -----------------------
