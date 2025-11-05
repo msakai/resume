@@ -35,9 +35,9 @@ techniques to solve highly challenging real-world problems.
 
   Preferred Networks is developing technology to compress and distribute four-dimensional observation data acquired by the latest weather radar, the Multi-Parameter Phased Array Weather Radar (MP-PAWR). I temporarily assisted the team on the project and developed a workflow (involving modification and integration of existing C programs) to process their past observational data. 
 
-* Optimization project in the logistics field (2021-2022):
+* Optimization project in the logistics field (Nov. 2021 - Jan. 2022):
 
-  I led a team of engineers, and within three months, our team caught up on an unfamiliar field and then proposed a solution combining reinforcement learning, SMT solvers, and physical simulation  to solve the customer's problem.
+  I led a team of engineers, and within three months, our team caught up on an unfamiliar field and then proposed a solution combining reinforcement learning, SMT solvers, and physical simulation to solve the customer's problem.
 
 * Automated operation of petrochemical plants (2019-2024):
 
