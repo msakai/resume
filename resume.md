@@ -37,9 +37,9 @@ techniques to solve highly challenging real-world problems.
   Assisted the team developing technology to compress and distribute a massive amount of four-dimensional observation data from the latest Multi-Parameter Phased Array Weather Radar (MP-PAWR).
   Developed a data processing workflow by modifying and integrating existing C programs to handle past observational datasets.
 
-* Optimization project in the logistics field (Nov. 2021 - Jan. 2022):
+* Optimization Project in the Logistics Field (Nov. 2021 - Jan. 2022):
 
-  I led a team of engineers, and within three months, our team caught up on an unfamiliar field and then proposed a solution combining reinforcement learning, SMT solvers, and physical simulation to solve the customer's problem.
+  Led a team of engineers to quickly gain expertise in an unfamiliar domain and develop a solution combining reinforcement learning, SMT solvers, and physical simulation to address the customer’s optimization problem.
 
 * Automated operation of petrochemical plants (2019-2024):
 
