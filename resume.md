@@ -41,22 +41,13 @@ techniques to solve highly challenging real-world problems.
 
   Led a team of engineers to quickly gain expertise in an unfamiliar domain and develop a solution combining reinforcement learning, SMT solvers, and physical simulation to address the customer’s optimization problem.
 
-* Automated operation of petrochemical plants (2019-2024):
+* Automated Operation of Petrochemical Plants (2019-2024):
 
-  Petroleum refineries and petrochemical plants are large and complex,
-  and their control requires operational know-how based on many years
-  of experience. We first achieved the [automated operation of a butadiene extraction plant](https://www.preferred.jp/en/news/pr20211202/)
-  and later the [automated operation of a crude distillation unit](https://www.preferred.jp/en/news/pr20240524/), which is more difficult and has a greater economic
-  impact. Our system is used in ENEOS's Kawasaki Refinery 24/7.
+  Contributed to the development of control systems enabling fully automated operation of petrochemical plants, including a [butadiene extraction unit](https://www.preferred.jp/en/news/pr20211202/) and later a more complex [crude distillation unit](https://www.preferred.jp/en/news/pr20240524/), now operating 24/7 at ENEOS's Kawasaki Refinery.
 
-  I made many important contributions in the early stages of the project,
-  which are still in use: an overall control scheme,
-  inductive bias for integrating domain knowledge into neural network
-  models, and communication with DCS (Distributed Control System).
-  I was also involved in many other parts of the project, including
-  simulator-related R&D and system development (front- and backend).
-  I also supported the project as an engineering manager and a scrum
-  master during certain periods.
+  Designed key components in the early stages of the project that remain in use, including an overall control scheme, inductive biases for integrating domain knowledge into neural network models, and communication with distributed control systems (DCS).
+
+  Participated in simulator-related R&D and system development (both front- and back-end), and supported the project as engineering manager and scrum master during certain periods.
 
 * Several PoC projects for applying anomaly detection in factories and manufacturing sites (2017-2019):
   
