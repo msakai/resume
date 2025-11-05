@@ -55,15 +55,10 @@ techniques to solve highly challenging real-world problems.
   Adapted neural network–based algorithms to customer environments by developing specialized data preprocessing and augmentation methods, and resolving deployment issues such as memory leaks.
   The resulting technology was later incorporated into FANUC’s products as the “[AI Servo Monitor](https://www.fanucamerica.com/products/cnc/cnc-software/machine-tool-data-collection-software/ai-servo-monitor).”
 
-* [Menoh](https://github.com/pfnet-research/menoh) DNN inference
-  library (2018-2019):
+* Menoh DNN inference library (2018-2019):
 
-  Menoh is a DNN inference library that loads trained DNN models from
-  the ONNX format and runs inference at high speed on an Intel CPU using
-  MKL-DNN (oneDNN). The main developer is Shintarou Okada and I
-  contributed with code reviews, CI, Windows/macOS support, Haskell
-  binding, etc. I also proposed the name “Menoh” (瑪瑙).
-  [[Blog post about the release (in Japanese)]](https://tech.preferred.jp/ja/blog/menoh-release/)
+  Contributed to the development of [Menoh](https://github.com/pfnet-research/menoh), a deep neural network inference library that loads trained DNN models in ONNX format and runs high-performance inference on Intel CPUs using MKL-DNN (oneDNN).
+  Worked on code reviews, CI setup, cross-platform support for Windows and macOS, and Haskell bindings. Also proposed the project name “Menoh” (瑪瑙).
 
 * Research for applying deep learning technologies in the field of automated
   theorem proving (ATP) (2017-2019):
