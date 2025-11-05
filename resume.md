@@ -31,7 +31,7 @@ Worked on applying cutting-edge deep learning techniques to solve technically de
   Lead software engineering efforts within a cross-functional team of researchers and engineers, developing a robust and efficient experimental platform that supports large-scale LLM-based experiments.
   Applied expertise in mathematical optimization to deepen the team’s understanding of the underlying problem and contribute to improving solution methods.
 
-* Data Processing for Weather Radar Project (June 2024 - Sep. 2024):
+* Data Processing for Weather Radar Project (Jun. 2024 - Sep. 2024):
 
   Assisted the team developing technology to compress and distribute a massive amount of four-dimensional observation data from the latest Multi-Parameter Phased Array Weather Radar (MP-PAWR).
   Developed a data processing workflow by modifying and integrating existing C programs to handle past observational datasets.
