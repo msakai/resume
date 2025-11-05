@@ -31,9 +31,10 @@ techniques to solve highly challenging real-world problems.
 
   As part of a team comprising researchers and engineers, I contributed by leveraging my software engineering skills and knowledge of mathematical optimization while also catching up on LLM technology.
 
-* Data processing of the latest weather radar data (June 2024 - Sep. 2024):
+* Data Processing for Weather Radar Project (June 2024 - Sep. 2024):
 
-  Preferred Networks is developing technology to compress and distribute four-dimensional observation data acquired by the latest weather radar, the Multi-Parameter Phased Array Weather Radar (MP-PAWR). I temporarily assisted the team on the project and developed a workflow (involving modification and integration of existing C programs) to process their past observational data. 
+  Assisted the team developing technology to compress and distribute a massive amount of four-dimensional observation data from the latest Multi-Parameter Phased Array Weather Radar (MP-PAWR).
+  Developed a data processing workflow by modifying and integrating existing C programs to handle past observational datasets.
 
 * Optimization project in the logistics field (Nov. 2021 - Jan. 2022):
 
