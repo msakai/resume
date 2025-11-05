@@ -19,13 +19,13 @@ Engineer (May 2017 to Present), Engineering Manager (Dec. 2019 to
 May 2022), Tech Lead (June 2022 to Feb. 2023 and Oct. 2024 to Present),
 and Scrum Master (May 2023 to Sep. 2024):
 
-I worked as a software engineer applying cutting-edge deep learning
+Worked as a software engineer applying cutting-edge deep learning
 techniques to solve highly challenging real-world problems.
 
-* Application of black-box optimization to manufacturing processes for heavy industries (Oct. 2024 - Present)
+* Application of Black-Box Optimization to Manufacturing Processes of Heavy Industries (Oct. 2024 - Present)
 
-  I have worked on multiple projects optimizing customer's manufacturing processes by combining Preferred Networks' black-box optimization software Optuna with simulators of the target processes.
-  I led the projects, obtained experimental results that serve as the cornerstone for achieving the goal, and our team delivered results that met our customers' expectations.
+  Lead multiple projects optimizing customers’ manufacturing processes by combining Preferred Networks’ black-box optimization framework Optuna with simulators of the target processes.
+  Produced key experimental results that formed the foundation for achieving project goals, contributing to successful project outcomes delivered by the team.
 
 * R&D Project for developing LLM agents for a certain task (Oct. 2024 - Present)
 
