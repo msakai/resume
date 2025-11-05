@@ -2,7 +2,6 @@ MASAHIRO SAKAI (酒井 政裕) ― Research and Development Engineer
 ==============================================================
 
 * Email: masahiro.sakai@gmail.com
-* Web: http://msakai.jp
 * LinkedIn: https://www.linkedin.com/in/masahirosakai
 * GitHub: https://github.com/msakai
 
