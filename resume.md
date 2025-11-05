@@ -397,16 +397,6 @@ Open Source Activities
   features and replaced non-extensible hard-coded ones in
   its predecessor Ruby/GTK1.
 
-* PTQ : An implementation of Montague's PTQ in Haskell [[hackage]](https://hackage.haskell.org/package/PTQ) [[github]](https://github.com/msakai/ptq)
-
-  Montague grammar and the PTQ (The Proper Treatment of
-  Quantification in Ordinary English) by Richard Montague
-  were pioneering work in the field of formal semantics
-  of natural languages, and showed that natural languages
-  (like English) and formal languages (like programming
-  languages) can be treated in a similar way. I
-  implemented his theory in an interactive environment.
-
 * CPL : A categorical programming language interpreter [[hackage]](https://hackage.haskell.org/package/CPL) [[github]](https://github.com/msakai/cpl)
 
   I implemented an interpreter of CPL, a functional programming
