@@ -105,16 +105,18 @@ Worked on R&D of dependable software technologies based on formal methods and pr
 Skills
 ------
 
-* Engineering Knowledge and Interests:
-  * Functional Programming, Formal Methods, Model Checking, SAT/SMT solvers,
-    Machine Learning, Mathematical Optimization, Category Theory, Type Theory,
-    Mathematical Logic.
+* Research and Technical Interests:
+  * Functional Programming, Type Theory, Category Theory, Formal Methods,
+    Model Checking, Automated Theorem Proving, Mathematical Logic,
+    SAT/SMT Solvers, Machine Learning, Deep Learning, Mathematical Optimization
+
 * Programming Languages:
-  * Haskell, Ruby, Python, Java, C.
+  * Haskell, Python, Ruby, Java, C
+
 * Languages:
-  * Japanese: Native Speaker
-  * English: Professional Proficiency
-  * German: Intermediate level (CEFR B1)
+  * Japanese: Native
+  * English: Professional Working Proficiency
+  * German: Intermediate (CEFR B1)
 
 Qualifications
 --------------
