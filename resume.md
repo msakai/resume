@@ -27,9 +27,10 @@ techniques to solve highly challenging real-world problems.
   Lead multiple projects optimizing customers’ manufacturing processes by combining Preferred Networks’ black-box optimization framework Optuna with simulators of the target processes.
   Produced key experimental results that formed the foundation for achieving project goals, contributing to successful project outcomes delivered by the team.
 
-* R&D Project for developing LLM agents for a certain task (Oct. 2024 - Present)
+* R&D Project on LLM-based Agents (Oct. 2024 - Present)
 
-  As part of a team comprising researchers and engineers, I contributed by leveraging my software engineering skills and knowledge of mathematical optimization while also catching up on LLM technology.
+  Lead software engineering efforts within a cross-functional team of researchers and engineers, developing a robust and efficient experimental platform that supports large-scale LLM-based experiments.
+  Applied expertise in mathematical optimization to deepen the team’s understanding of the underlying problem and contribute to improving solution methods.
 
 * Data Processing for Weather Radar Project (June 2024 - Sep. 2024):
 
