@@ -16,15 +16,14 @@ Professional Experience
 ### [Preferred Networks, Inc.](https://www.preferred-networks.jp)
 
 Engineer (May 2017 to Present), Engineering Manager (Dec. 2019 to
-May 2022), Tech Lead (June 2022 to Feb. 2023 and Oct. 2024 to Present),
-and Scrum Master (May 2023 to Sep. 2024):
+May 2022), Tech Lead (Jun. 2022 to Feb. 2023 and Oct. 2024 to Present),
+and Scrum Master (May 2023 to Sep. 2024).
 
-Worked as a software engineer applying cutting-edge deep learning
-techniques to solve highly challenging real-world problems.
+Worked on applying cutting-edge deep learning techniques to solve technically demanding real-world problems across multiple domains, including manufacturing, logistics, and process automation:
 
 * Application of Black-Box Optimization to Manufacturing Processes of Heavy Industries (Oct. 2024 - Present)
 
-  Lead multiple projects optimizing customers’ manufacturing processes by combining Preferred Networks’ black-box optimization framework Optuna with simulators of the target processes.
+  Lead multiple projects optimizing customers' manufacturing processes by combining Preferred Networks' black-box optimization framework Optuna with simulators of the target processes.
   Produced key experimental results that formed the foundation for achieving project goals, contributing to successful project outcomes delivered by the team.
 
 * R&D Project on LLM-based Agents (Oct. 2024 - Present)
@@ -65,82 +64,41 @@ techniques to solve highly challenging real-world problems.
   Conducted research on applying deep neural networks to various theorem-proving tasks, including [premise selection in first-order logic ATP](https://github.com/pfnet-research/chainer-formulanet), inference rule selection in [intuitionistic propositional logic](https://arxiv.org/abs/1811.00796), and neural-network-based decision heuristics for SAT solvers.
   [[Slides at ProofSummit 2017 (in Japanese)]](https://www.slideshare.net/slideshow/proof-summit-2017-for-slideshare/78254931)
 
-### [Toshiba Corporation](http://www.toshiba.co.jp/worldwide/index.html)
+### [Toshiba Corporation](https://www.global.toshiba/)
 
-Engineer (Apr. 2007 to June 2015) and Research Scientist (July 2015 to Apr. 2017):
+Engineer (Apr. 2007 to Jun. 2015) and Research Scientist (Jul. 2015 to Apr. 2017).
 
-I worked as a researcher for the System Engineering Laboratory,
-Toshiba Research and Development Center. I have worked in
-software dependability team to develop technology based on
-formal methods, program analysis, and automatic test-case
-generation to achieve more dependable systems. I have also
-worked in cities infrastructure solutions team and developed
-a recommendation system that recommends brick-and-mortar
-shops/goods on smartphones for regional promotion.
+Worked on R&D of dependable software technologies based on formal methods and program analysis, and later contributed to projects applying optimization and data-driven approaches to social infrastructure, including an economic load dispatch system for power generation and a smartphone-based recommendation system for regional economic promotion.
 
-* Economic load dispatch (2015-2016):
+* Optimization for economic load dispatch in power generation (2015-2016):
 
-  Economic load dispatch is the determination of the output
-  of electricity generation units that meet the electricity
-  demands with the lowest possible cost, subject to complex
-  operational constraints. I assisted research project of
-  economic load dispatch problem by removing performance
-  bottlenecks of our prototype optimization system, setting
-  up continuous integration environment, and writing heuristic
-  algorithm and minor modules of the system. My work is partly
-  applied to the system for TEPCO Fuel & Power, Incorporated.
+  Contributed to a R&D project on economic load dispatch — optimizing electricity generation to minimize cost under operational constraints — by improving the performance of the prototype optimization system, setting up a continuous integration environment, and developing heuristic algorithms. Some of these contributions were applied to the system for TEPCO Fuel & Power, Incorporated.
   [[News release regarding presentation at thermal and nuclear power generation conference (in Japanese)]](https://www.global.toshiba/jp/news/energy/2016/10/news-20161026-01.html)
   [[Toshiba Review article (in Japanese)]](https://www.global.toshiba/content/dam/toshiba/migration/corp/techReviewAssets/tech/review/2016/03/71_03pdf/0A.pdf#page=6)
 
-* Recommendation system for the Kawasaki Grand City Mall project
-  (2013-2015):
+* Recommendation system for the Kawasaki Grand City Mall project (2013-2015):
 
-  Toshiba carried out a demonstration experiment on smart city
-  and O2O service around Kawasaki Station ([Press release announcing the start of the proof-of-concept](https://warp.ndl.go.jp/info:ndljp/pid/8406771/www.city.kawasaki.jp/200/page/0000053904.html)).
-  As part of this experiment, we
-  have developed a recommendation system that recommends
-  brick-and-mortar shops/goods on smartphones for regional
-  promotion. I led a team for data analysis and
-  recommendation algorithm development.
+  Developed a smartphone-based recommendation system for regional economic promotion as part of Toshiba's smart city and O2O service demonstration around Kawasaki Station. Led a team responsible for data analysis and recommendation algorithm development.
+  [[Press release announcing the start of the experient]](https://warp.ndl.go.jp/info:ndljp/pid/8406771/www.city.kawasaki.jp/200/page/0000053904.html)
 
-* SMT-based semi-automatic test-case generation for power
-  plant control systems (2010-2014):
+* SMT-based semi-automatic test-case generation for power plant control systems (2010-2014):
 
-  Power plant controllers are often programmed using graphical
-  data flow language such as Function Block Diagram (FBD).
-  We have proposed new test coverage criteria for FBD and
-  developed technology to automatically generate test cases
-  that satisfy the proposed criteria. I developed core
-  algorithms of our approach that encodes both FBD programs
-  and conditions for proposed criteria into logical formulas and
-  solves the conjoined formula using SMT solvers to generate
-  test cases.
+  Contributed to the development of a semi-automatic test-case generation technology for Function Block Diagram (FBD) programs used in power plant controllers, which introduced new FBD-specific test coverage criteria. Designed and implemented the core algorithms that encode FBD programs and coverage conditions into logical formulas and use SMT solvers to generate test cases.
 
 * Molatomium (2009-2011):
 
-  I assisted language/runtime design of “Molatomium”, a parallel
-  programming model for “Cell Broadband Engine”-like
-  heterogeneous multicore processors, which was shipped
-  with Toshiba's flagship digital TV “CELL REGZA”.
+  Provided technical advice and support on the design of the language and runtime system for *Molatomium*, a parallel programming model for “Cell Broadband Engine”-like heterogeneous multicore processors, contributing to Toshiba's flagship digital TV, CELL REGZA, from the perspective of programming language theory.
   [[HotPar'10 paper]](https://www.usenix.org/conference/hotpar-10/molatomium-parallel-programming-model-practice)
 
 * Specification mining based on UNSAT core enumeration (2008-):
 
-  Specification mining tackles software maintenance and
-  reliability issues by mining latent specifications from
-  source code. We have developed a novel technology to mine pre-condition
-  (one type of specification) by combining model checking and minimal
-  unsatisfiable core enumeration.
+  Contributed to a research project on specification mining to address software reliability and maintenance challenges.
+  Developed a method for mining preconditions by integrating model checking with minimal unsatisfiable core enumeration, implemented on top of the *CForge* program analysis framework.
 
 * CForge: Bounded model checker for C language (2008-2012):
 
-  CForge is a C program analyzer based on a program
-  analysis framework Forge developed by the Software Design
-  Group (SDG) at MIT, and we developed CForge as part of a
-  joint research project with MIT SDG. I worked as a main
-  developer of CForge, and worked on its overall design,
-  design of our formal specification language for C, implementation
-  of a kind of C compiler, and so on.
+  Served as the main developer of *CForge*, a C-language frontend for the *Forge* program analysis framework developed by the Software Design Group at MIT.
+  Developed as part of a joint research project with MIT SDG. Responsible for the overall design, development of a formal specification language for C, implementation of the compiler frontend translating C programs into Forge's intermediate representation, and encoding of low-level C features such as pointers and unions.
 
 * Verification of workflow networks based on model checking (2007).
 
