@@ -49,15 +49,11 @@ techniques to solve highly challenging real-world problems.
 
   Participated in simulator-related R&D and system development (both front- and back-end), and supported the project as engineering manager and scrum master during certain periods.
 
-* Several PoC projects for applying anomaly detection in factories and manufacturing sites (2017-2019):
+* PoC Projects on Anomaly Detection for Manufacturing Sites (2017-2019):
   
-  I worked on multiple anomaly detection projects in the factory
-  (e.g. anomaly detection of cutting tools). I adapted already
-  developed algorithms (neural network models) to the customer's
-  environment and solved problems, including specialized data
-  preprocessing and data augmentation, fixing memory leak issues in
-  deployed environments, etc.  Our technology is incorporated in
-  FANUC's products as [“AI Servo Monitor” (AIサーボモニタ)](https://www.fanucamerica.com/products/cnc/cnc-software/machine-tool-data-collection-software/ai-servo-monitor).
+  Worked on multiple proof-of-concept projects applying anomaly detection to factory processes (e.g., detection of cutting tool anomalies).
+  Adapted neural network–based algorithms to customer environments by developing specialized data preprocessing and augmentation methods, and resolving deployment issues such as memory leaks.
+  The resulting technology was later incorporated into FANUC’s products as the “[AI Servo Monitor](https://www.fanucamerica.com/products/cnc/cnc-software/machine-tool-data-collection-software/ai-servo-monitor).”
 
 * [Menoh](https://github.com/pfnet-research/menoh) DNN inference
   library (2018-2019):
