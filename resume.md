@@ -60,13 +60,9 @@ techniques to solve highly challenging real-world problems.
   Contributed to the development of [Menoh](https://github.com/pfnet-research/menoh), a deep neural network inference library that loads trained DNN models in ONNX format and runs high-performance inference on Intel CPUs using MKL-DNN (oneDNN).
   Worked on code reviews, CI setup, cross-platform support for Windows and macOS, and Haskell bindings. Also proposed the project name “Menoh” (瑪瑙).
 
-* Research for applying deep learning technologies in the field of automated
-  theorem proving (ATP) (2017-2019):
+* Research on applying deep learning to automated theorem proving (2017-2019):
 
-  We tried to apply deep neural networks to theorem-proving related problems
-  including [premise selection in automated theorem proving of first-order logic](https://github.com/pfnet-research/chainer-formulanet),
-  [inference rule selection in intuitionistic propositional logic](https://arxiv.org/abs/1811.00796), and NN-based
-  heuristics in SAT solver, etc.
+  Conducted research on applying deep neural networks to various theorem-proving tasks, including [premise selection in first-order logic ATP](https://github.com/pfnet-research/chainer-formulanet), inference rule selection in [intuitionistic propositional logic](https://arxiv.org/abs/1811.00796), and neural-network-based decision heuristics for SAT solvers.
   [[Slides at ProofSummit 2017 (in Japanese)]](https://www.slideshare.net/slideshow/proof-summit-2017-for-slideshare/78254931)
 
 ### [Toshiba Corporation](http://www.toshiba.co.jp/worldwide/index.html)
