@@ -285,10 +285,10 @@ Professional Services
 
   * Richard Bird and Nobuo Yamashita, “関数プログラミング入門 ―
     Haskellで学ぶ原理と技法―” (Japanese translation of
-    “Introduction to Functional Programming with Haskell),
+    “Introduction to Functional Programming with Haskell”),
     Ohmsha, 2012. IBSN: 978-4274068966
 
-  * Tom Stuart, Koichi Saasda and Takashi Sasai, “アンダースタン
+  * Tom Stuart, Koichi Sasada, and Takashi Sasai, “アンダースタン
     ディング コンピュテーション--単純な機械から不可能なプログラムまで”
     (Japanese translation of “Understanding Computation -- From
     Simple Machines to Impossible Programs”), O'Reilly Japan, 2014.
