@@ -12,10 +12,10 @@ Experienced in engineering management and agile development, having served as a 
 Professional Experience
 -----------------------
 
-### [Preferred Networks, Inc.](https://www.preferred-networks.jp)
+### [Preferred Networks, Inc.](https://www.preferred-networks.jp) (May 2017 to Feb. 2026)
 
-Engineer (May 2017 to Present), Engineering Manager (Dec. 2019 to
-May 2022), Tech Lead (Jun. 2022 to Feb. 2023 and Oct. 2024 to Present),
+Engineer (May 2017 to Feb. 2026), Engineering Manager (Dec. 2019 to
+May 2022), Tech Lead (Jun. 2022 to Feb. 2023 and Oct. 2024 to Jan. 2026),
 and Scrum Master (May 2023 to Sep. 2024).
 
 Worked on applying cutting-edge deep learning techniques to solve technically demanding real-world problems across multiple domains, including manufacturing, logistics, and process automation:
@@ -63,7 +63,7 @@ Worked on applying cutting-edge deep learning techniques to solve technically de
   Conducted research on applying deep neural networks to various theorem-proving tasks, including [premise selection in first-order logic ATP](https://github.com/pfnet-research/chainer-formulanet), inference rule selection in [intuitionistic propositional logic](https://arxiv.org/abs/1811.00796), and neural-network-based decision heuristics for SAT solvers.
   [[Slides at ProofSummit 2017 (in Japanese)]](https://www.slideshare.net/slideshow/proof-summit-2017-for-slideshare/78254931)
 
-### [Toshiba Corporation](https://www.global.toshiba/)
+### [Toshiba Corporation](https://www.global.toshiba/) (Apr. 2007 to Apr. 2017)
 
 Engineer (Apr. 2007 to Jun. 2015) and Research Scientist (Jul. 2015 to Apr. 2017).
 
