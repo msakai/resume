@@ -12,6 +12,10 @@ Experienced in engineering management and agile development, having served as a 
 Professional Experience
 -----------------------
 
+### [Noeon Research](https://noeon.ai/) (Feb. 2026 to Present)
+
+Data Structure & Algorithm Engineer (Feb. 2026 to Present)
+
 ### [Preferred Networks, Inc.](https://www.preferred-networks.jp) (May 2017 to Feb. 2026)
 
 Engineer (May 2017 to Feb. 2026), Engineering Manager (Dec. 2019 to
